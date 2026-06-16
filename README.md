@@ -26,7 +26,7 @@ This project involves:
 * OCR-based ingredient extraction.
 * Data preprocessing and text normalization.
 * Machine Learning-based harmful ingredient detection.
-* Web application deployment using Flask.
+* Web application deployment using Streamlit.
 * User-friendly interface for ingredient analysis.
 
 ---
@@ -41,7 +41,7 @@ This repository showcases expertise in:
 * Optical Character Recognition (OCR)
 * Python Development
 * Data Preprocessing
-* Flask Web Development
+* Streamlit Web Development
 * Healthcare Analytics
 
 ---
@@ -52,9 +52,8 @@ This repository showcases expertise in:
 * **Machine Learning:** TensorFlow / Scikit-learn
 * **Computer Vision:** OpenCV
 * **OCR:** Tesseract OCR
-* **Backend:** Flask
+* **Backend:** Streamlit
 * **Database:** MySQL / SQLite
-* **Frontend:** HTML, CSS, JavaScript
 
 ---
 
@@ -66,25 +65,6 @@ This repository showcases expertise in:
 4. Analyze ingredients using AI/ML models.
 5. Detect harmful ingredients and allergens.
 6. Display health alerts and recommendations.
-
----
-
-## 📂 Repository Structure
-
-```text
-harmful-ingredient-detection/
-│
-├── dataset/                 # Training datasets
-├── models/                  # Trained ML models
-├── static/                  # CSS, JavaScript, Images
-├── templates/               # HTML pages
-├── app.py                   # Flask application
-├── ocr.py                   # OCR processing
-├── prediction.py            # ML prediction module
-├── requirements.txt         # Project dependencies
-├── README.md                # Project documentation
-└── LICENSE
-```
 
 ---
 
