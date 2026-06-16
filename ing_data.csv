@@ -1,0 +1,2571 @@
+ingredient,class,int_label
+"abietic acid, glyceryl ester",controversial,0
+acacia gum,not harmful,2
+acai berry extract,not harmful,2
+acerola extract,not harmful,2
+acesulfame potassium,controversial,0
+acetic acid,not harmful,2
+adipic acid,controversial,0
+agar,not harmful,2
+"agar, dried",not harmful,2
+agave syrup,harmful,1
+albumin,not harmful,2
+"albumin, dried",not harmful,2
+algae extract,not harmful,2
+alginic acid,not harmful,2
+allspice oleoresin,controversial,0
+allyl isothiocyanate,harmful,1
+almond extract,controversial,0
+almond protein,not harmful,2
+aloe vera extract,controversial,0
+alpha-tocopherol,not harmful,2
+aluminum ammonium sulfate,controversial,0
+aluminum phosphate,controversial,0
+aluminum sodium sulfate,controversial,0
+aluminum sulfate,controversial,0
+ammonia (also includes ammonium chloride),controversial,0
+ammonium bicarbonate,harmful,1
+ammonium carbonate,harmful,1
+ammonium chloride,controversial,0
+ammonium phosphate,harmful,1
+"ammonium phosphate, dibasic",controversial,0
+"ammonium phosphate, monobasic",controversial,0
+ammonium sulfate,controversial,0
+anchovy extract,not harmful,2
+anise extract,not harmful,2
+annatto extract (or color),controversial,0
+annatto oleoresin,controversial,0
+anthocyanin,not harmful,2
+apple extract (or color),not harmful,2
+apple fiber,not harmful,2
+apple solids,not harmful,2
+artemisia extract,controversial,0
+artificial color,controversial,0
+asafoetida oleoresin,controversial,0
+ascorbic acid,not harmful,2
+ascorbyl palmitate,controversial,0
+aspartame,controversial,0
+autolyzed yeast,controversial,0
+autolyzed yeast extract,controversial,0
+azodicarbonamide,harmful,1
+bakers yeast extract,controversial,0
+bakers yeast protein,not harmful,2
+baking powder,not harmful,2
+bamboo fiber,not harmful,2
+barley extract,not harmful,2
+barley fiber,not harmful,2
+basil extract,not harmful,2
+bee pollen,controversial,0
+beef extract,controversial,0
+beeswax,not harmful,2
+"beeswax, bleached",controversial,0
+beetroot extract (or color),not harmful,2
+beetroot fiber,not harmful,2
+beetroot protein,not harmful,2
+benzaldehyde,controversial,0
+benzoic acid,controversial,0
+benzoyl peroxide,not harmful,2
+benzyl alcohol,controversial,0
+berry extract (or color),controversial,0
+beta-apo-8'-carotenal,controversial,0
+beta-carotene,not harmful,2
+beta-d-fructofuranose,not harmful,2
+biotin,not harmful,2
+black pepper extract,not harmful,2
+black pepper oleoresin,controversial,0
+blueberry extract (or color),not harmful,2
+bonito extract,controversial,0
+brewers yeast protein,not harmful,2
+brominated vegetable oil,harmful,1
+brown rice protein,not harmful,2
+brown rice syrup,harmful,1
+brown sugar,controversial,0
+brown sugar syrup,harmful,1
+butylated hydroxyanisole,controversial,0
+butylated hydroxytoluene,controversial,0
+cabbage extract (or color),not harmful,2
+calcium acetate,controversial,0
+calcium acid pyrophosphate,controversial,0
+calcium alginate,not harmful,2
+calcium bicarbonate,not harmful,2
+calcium carbonate,not harmful,2
+calcium caseinate,controversial,0
+calcium chloride,not harmful,2
+calcium citrate,not harmful,2
+calcium citrate malate salt,not harmful,2
+calcium hydroxide,not harmful,2
+calcium iodate,controversial,0
+calcium lactate,not harmful,2
+calcium malate,not harmful,2
+calcium oxide,harmful,1
+calcium pantothenate,not harmful,2
+calcium peroxide,controversial,0
+"calcium phosphate, dibasic",not harmful,2
+"calcium phosphate, monobasic",not harmful,2
+"calcium phosphate, tribasic",not harmful,2
+calcium propionate,controversial,0
+calcium salt,not harmful,2
+calcium sorbate,controversial,0
+calcium stearate,controversial,0
+calcium stearoyl-2-lactylate,controversial,0
+calcium sulfate,not harmful,2
+calcium sulfite,controversial,0
+candelilla wax,not harmful,2
+cane syrup,harmful,1
+capsanthin,not harmful,2
+caramel extract (or color),controversial,0
+caramel extract (or color) (with added sulfite agent),controversial,0
+caramel syrup,harmful,1
+carbon dioxide,harmful,1
+carboxymethyl cellulose,controversial,0
+"carboxymethyl cellulose, sodium salt",controversial,0
+carmine,controversial,0
+carmoisine,controversial,0
+carnauba wax,not harmful,2
+carrageenan,controversial,0
+"carrageenan, calcium salt of",controversial,0
+carrot extract (or color),not harmful,2
+carrot fiber,not harmful,2
+casein,controversial,0
+celery seed oleoresin,controversial,0
+cellulose,not harmful,2
+cellulose acetate,harmful,1
+cellulose triacetate,not harmful,2
+"cellulose, methyl ethyl",not harmful,2
+"cellulose, microcrystalline",not harmful,2
+chewing gum base,controversial,0
+chia protein,not harmful,2
+chickpea protein,not harmful,2
+chicory extract,not harmful,2
+chicory root fiber,controversial,0
+chlorine,harmful,1
+chlorophyll,not harmful,2
+chlorophyll color,not harmful,2
+chlorophyllin,controversial,0
+chromium,not harmful,2
+chromium chloride,controversial,0
+cinnamaldehyde,controversial,0
+cinnamon extract,controversial,0
+cinnamon sugar,harmful,1
+citric acid,not harmful,2
+citrus extract,not harmful,2
+citrus fiber,not harmful,2
+citrus red no. 2,harmful,1
+clam extract,not harmful,2
+"clam extract, dried",not harmful,2
+cochineal extract (or color),controversial,0
+cocoa extract,not harmful,2
+cocoa solids,not harmful,2
+coconut extract,not harmful,2
+coconut sugar,not harmful,2
+coffee extract,controversial,0
+coffee pulp,not harmful,2
+coffee solids,not harmful,2
+copper (iii) oxide,harmful,1
+copper chlorophyllin a,controversial,0
+copper sulfate,harmful,1
+coriander extract,not harmful,2
+corn extract,not harmful,2
+corn fiber,not harmful,2
+corn gluten,controversial,0
+"corn protein, hydrogenated",harmful,1
+corn starch solids,controversial,0
+"corn starch, modified",controversial,0
+corn syrup,harmful,1
+corn syrup solids,harmful,1
+"corn syrup, cultured",controversial,0
+"corn syrup, dried",harmful,1
+"corn syrup, modified",controversial,0
+cottonseed fiber,not harmful,2
+cranberry extract (or color),not harmful,2
+"cream extract, dried",controversial,0
+cream solids,not harmful,2
+cultured buttermilk solids,controversial,0
+curcumin,not harmful,2
+dextrin,controversial,0
+dextrose,harmful,1
+"dextrose, cultured",controversial,0
+d-gluconic acid,not harmful,2
+dimethylpolysiloxane,not harmful,2
+dipotassium phosphate,controversial,0
+disodium citrate,not harmful,2
+disodium guanylate,controversial,0
+disodium inosinate,controversial,0
+disodium succinate,controversial,0
+d-limonene,controversial,0
+docosahexaenoic acid,not harmful,2
+d-psicose,not harmful,2
+dry honey,not harmful,2
+d-sorbitol,controversial,0
+d-tagatose,controversial,0
+"edta, calcium disodium",controversial,0
+"edta, disodium",controversial,0
+"edta, tetrasodium",controversial,0
+egg solids,not harmful,2
+egg white solids,controversial,0
+eicosapentaenoic acid,not harmful,2
+elderberry extract (or color),controversial,0
+erythorbic acid,not harmful,2
+erythritol,not harmful,2
+essential oil,controversial,0
+esters of fatty acids,controversial,0
+ethoxyquin,controversial,0
+ethyl alcohol,harmful,1
+ethylenediaminetetraacetate acid,controversial,0
+faba bean protein,not harmful,2
+fatty acids,not harmful,2
+fd&c blue no. 1,controversial,0
+"fd&c blue no. 1, aluminum lake",controversial,0
+"fd&c blue no. 1, calcium lake",controversial,0
+fd&c blue no. 2,controversial,0
+"fd&c blue no. 2, aluminum lake",controversial,0
+fd&c green no. 3,harmful,1
+fd&c lakes/dyes,controversial,0
+fd&c red no. 1--delisted,harmful,1
+fd&c red no. 2--delisted,controversial,0
+fd&c red no. 3,controversial,0
+fd&c red no. 40,controversial,0
+"fd&c red no. 40, aluminum lake",harmful,1
+"fd&c red no. 40, calcium lake",controversial,0
+fd&c yellow no. 5,controversial,0
+"fd&c yellow no. 5, aluminum lake",harmful,1
+"fd&c yellow no. 5, calcium lake",controversial,0
+fd&c yellow no. 6,controversial,0
+"fd&c yellow no. 6, aluminum lake",controversial,0
+"fd&c yellow no. 6, calcium lake",controversial,0
+fenugreek extract,not harmful,2
+fenugreek oleoresin,controversial,0
+ferric phosphate,not harmful,2
+ferric pyrophosphate,controversial,0
+ferrous fumarate,not harmful,2
+ferrous gluconate,not harmful,2
+ferrous lactate,not harmful,2
+ferrous sulfate,not harmful,2
+fiber,not harmful,2
+fish protein,not harmful,2
+flavor,controversial,0
+flavor,controversial,0
+folic acid,not harmful,2
+"food starch, modified",controversial,0
+"food starch, pregelatinized",not harmful,2
+formic acid,harmful,1
+fructans,controversial,0
+fructose,controversial,0
+fruit juice extract (or color),controversial,0
+fruit syrup,harmful,1
+fumaric acid,not harmful,2
+galactose,harmful,1
+garcinia cambogia rind extract,controversial,0
+garlic extract,not harmful,2
+gelatin,controversial,0
+gelatin (with added sulfite agent),controversial,0
+gellan gum,not harmful,2
+ginger extract,not harmful,2
+ginger oleoresin,controversial,0
+glucono-delta lactone,controversial,0
+glucose syrup,harmful,1
+glucose syrup (with added sulfite agent),harmful,1
+glucose syrup solids,controversial,0
+"glucose syrup, dried",controversial,0
+gluten,controversial,0
+glycerin,not harmful,2
+glyceryl-lacto esters of fatty acids,not harmful,2
+"glycol, c13-17",not harmful,2
+grape extract (or color),not harmful,2
+grape seed extract,not harmful,2
+grape skin extract (or color),not harmful,2
+grapefruit essence,controversial,0
+grapefruit extract,controversial,0
+guanylate,controversial,0
+guar gum,not harmful,2
+guava extract,not harmful,2
+guava syrup,harmful,1
+guiaic gum,controversial,0
+gum gluten,harmful,1
+gums,controversial,0
+hemp protein,not harmful,2
+"hemp seed protein, dried",not harmful,2
+hibiscus extract (or color),not harmful,2
+high fructose corn syrup,harmful,1
+high fructose corn syrup solids,harmful,1
+high fructose wheat syrup,harmful,1
+high maltose corn syrup,harmful,1
+high maltose corn syrup solids,controversial,0
+honey,not harmful,2
+honey,not harmful,2
+"honey, dried",not harmful,2
+horseradish extract,not harmful,2
+hot pepper extract,controversial,0
+hot pepper juice solids,controversial,0
+hydrochloric acid,harmful,1
+hydrogen peroxide,controversial,0
+hydrogenated hydrolyzed starch,harmful,1
+hydrolyzed animal protein,controversial,0
+hydrolyzed cereal solids,controversial,0
+hydrolyzed collagen,not harmful,2
+hydrolyzed corn protein,controversial,0
+hydrolyzed corn starch,controversial,0
+hydrolyzed gelatin,controversial,0
+hydrolyzed lactose,controversial,0
+hydrolyzed milk protein,controversial,0
+hydrolyzed milk solids,controversial,0
+hydrolyzed protein,controversial,0
+hydrolyzed rice protein,controversial,0
+hydrolyzed sago starch,not harmful,2
+hydrolyzed soy protein,controversial,0
+hydrolyzed torula yeast,controversial,0
+hydrolyzed vegetable protein,controversial,0
+hydrolyzed wheat bran,controversial,0
+hydrolyzed wheat protein,controversial,0
+hydrolyzed whey protein,not harmful,2
+hydrolyzed yeast,controversial,0
+hydrolyzed yeast extract,controversial,0
+hydrolyzed yeast protein,controversial,0
+hydroxypropyl cellulose,not harmful,2
+hydroxypropyl methylcellulose,not harmful,2
+inulin,not harmful,2
+inulin syrup,controversial,0
+invert sugar,not harmful,2
+invert sugar syrup,controversial,0
+iodine,not harmful,2
+iron,not harmful,2
+iron oxide,not harmful,2
+isomalt,controversial,0
+isomaltooligosaccharides,controversial,0
+jaggery,not harmful,2
+karaya gum,not harmful,2
+kelp extract,not harmful,2
+kola nut extract,controversial,0
+konjac gum,not harmful,2
+lactalbumin,controversial,0
+lactic acid,not harmful,2
+lactitol,controversial,0
+lactose,harmful,1
+lactylic esters of fatty acids,controversial,0
+l-aspartic acid,controversial,0
+lavender absolute,controversial,0
+l-carnitine,controversial,0
+l-cysteine,controversial,0
+l-cysteine monohydrochloride,controversial,0
+lemon balm leaf extract,not harmful,2
+lemon essence,controversial,0
+lemon extract (or color),not harmful,2
+lemon peel extract,not harmful,2
+lemongrass extract,not harmful,2
+l-glutamic acid,controversial,0
+l-histidine,not harmful,2
+licorice extract,controversial,0
+"licorice extract, dried",controversial,0
+lobster extract,not harmful,2
+locust (carob) bean gum,not harmful,2
+locust bean extract,not harmful,2
+lutein,not harmful,2
+mace oleoresin,controversial,0
+magnesium,not harmful,2
+magnesium carbonate,not harmful,2
+magnesium chloride,not harmful,2
+magnesium citrate,not harmful,2
+magnesium hydroxide,not harmful,2
+magnesium lactate,not harmful,2
+magnesium oxide,not harmful,2
+magnesium phosphate,not harmful,2
+"magnesium phosphate, dibasic",not harmful,2
+magnesium silicate,not harmful,2
+magnesium stearate,not harmful,2
+magnesium sulfate,not harmful,2
+malic acid,not harmful,2
+malt syrup (malt extract),controversial,0
+"malt syrup (malt extract), dried",controversial,0
+maltitol,controversial,0
+maltitol syrup,controversial,0
+maltodextrin,controversial,0
+"maltodextrin, cultured",controversial,0
+maltose,not harmful,2
+maltose syrup,controversial,0
+manganese,not harmful,2
+manganese sulfate,not harmful,2
+mannitol,controversial,0
+maple sugar,not harmful,2
+maple syrup,not harmful,2
+"maple syrup, dried",not harmful,2
+medium-chain triglycerides,not harmful,2
+methyl p-hydroxybenzoate,controversial,0
+methylcellulose,controversial,0
+mica,controversial,0
+mica-based pearlescent pigments,controversial,0
+milk protein,controversial,0
+milk protein concentrate,controversial,0
+milk protein isolate,controversial,0
+mineral oil,controversial,0
+mint extract,not harmful,2
+molasses,not harmful,2
+molasses concentrate,not harmful,2
+molasses extract,not harmful,2
+molasses solids,controversial,0
+"molasses, cultured",not harmful,2
+"molasses, dried",not harmful,2
+molybdenum,not harmful,2
+monk fruit extract,not harmful,2
+mono- and diglycerides,controversial,0
+"mono- and diglycerides, diacetyltartaric acid esters",controversial,0
+"mono- and diglycerides, ethoxylated",controversial,0
+"mono- and diglycerides, monosodium phosphate derivatives",controversial,0
+monoglycerides,controversial,0
+"monoglycerides, ethoxylated",controversial,0
+monosodium glutamate,controversial,0
+mung bean protein,not harmful,2
+mushroom extract,not harmful,2
+mustard extract,not harmful,2
+naringin extract,controversial,0
+natamycin,controversial,0
+niacin,not harmful,2
+niacinamide,not harmful,2
+nitrous oxide,harmful,1
+nucleotides,controversial,0
+oat fiber,not harmful,2
+"oat fiber, bleached",controversial,0
+oat protein isolate,controversial,0
+oat syrup,controversial,0
+oleoresin,controversial,0
+olibanum gum resin,not harmful,2
+olive extract,not harmful,2
+onion extract,not harmful,2
+orange essence,not harmful,2
+orange extract,not harmful,2
+oregano extract,not harmful,2
+palmitic acid,controversial,0
+pantothenic acid,not harmful,2
+paprika oleoresin,controversial,0
+pea fiber,not harmful,2
+pea protein,not harmful,2
+pea protein concentrate,not harmful,2
+pea protein isolate,not harmful,2
+peach kernel extract,harmful,1
+peach leaf extract,controversial,0
+peanut extract,controversial,0
+pectin,not harmful,2
+pectin,not harmful,2
+pepper extract,controversial,0
+peppermint extract,not harmful,2
+peru balsam,controversial,0
+peru balsam oleoresin,controversial,0
+petrolatum,controversial,0
+phosphoric acid,controversial,0
+phosphorus,not harmful,2
+phytosterols,not harmful,2
+pitaya extract (or color),controversial,0
+plum extract,not harmful,2
+polydextrose,not harmful,2
+polyglycerol esters of fatty acids,controversial,0
+polyglycerol polyricinoleate,controversial,0
+polyglycitol syrup,controversial,0
+"polypropylene glycol (m w 1,200-3,000)",controversial,0
+polysorbate,controversial,0
+polysorbate 60,controversial,0
+polysorbate 80,controversial,0
+potassium,not harmful,2
+potassium acetate,not harmful,2
+potassium acid tartrate,not harmful,2
+potassium benzoate,controversial,0
+potassium bicarbonate,not harmful,2
+potassium bisulfite,controversial,0
+potassium bromate,harmful,1
+potassium carbonate,harmful,1
+potassium chloride,not harmful,2
+potassium citrate,not harmful,2
+potassium iodate,controversial,0
+potassium iodide,not harmful,2
+potassium lactate,not harmful,2
+potassium metabisulfite,controversial,0
+potassium phosphate,controversial,0
+"potassium phosphate, monobasic",not harmful,2
+potassium sorbate,controversial,0
+potassium stearate,not harmful,2
+potassium sulfate,not harmful,2
+potassium sulfite,harmful,1
+"potato starch, modified",controversial,0
+powdered sugar,harmful,1
+propionic acid,controversial,0
+propyl gallate,controversial,0
+propylene glycol,controversial,0
+propylene glycol alginate,controversial,0
+propylene glycol mono- and diesters of fats and fatty acids,controversial,0
+propylparaben,controversial,0
+protein concentrate,controversial,0
+protein isolate,not harmful,2
+pumpkin seed protein,not harmful,2
+pyridoxine hydrochloride,not harmful,2
+quillaia extract,controversial,0
+radish extract (or color),not harmful,2
+rebaudioside a,controversial,0
+rebaudioside d,controversial,0
+rebaudioside e,controversial,0
+rebaudioside m,controversial,0
+resistant maltodextrin,controversial,0
+resistant starch,not harmful,2
+riboflavin,not harmful,2
+rice bran extract,not harmful,2
+rice protein,not harmful,2
+rice protein concentrate,not harmful,2
+"rice starch, modified",controversial,0
+rice syrup,controversial,0
+"rice syrup, dried",harmful,1
+roman chamomile extract,not harmful,2
+rose hip extract,not harmful,2
+rosemary extract,not harmful,2
+rosemary oleoresin,not harmful,2
+rosin and rosin derivatives,controversial,0
+"rosin, glycerol ester",controversial,0
+rye fiber,not harmful,2
+sage extract,controversial,0
+seaweed extract,not harmful,2
+selenium,not harmful,2
+"shellac, purified",controversial,0
+shrimp extract,not harmful,2
+"shrimp extract, dried",not harmful,2
+silicon dioxide,not harmful,2
+sodium,controversial,0
+sodium acetate,not harmful,2
+sodium acid pyrophosphate,controversial,0
+sodium alginate,not harmful,2
+"sodium aluminum phosphate, acidic",controversial,0
+"sodium aluminum phosphate, acidic or basic",controversial,0
+sodium aluminum salt,controversial,0
+sodium aluminum silicate,controversial,0
+sodium ascorbate,not harmful,2
+sodium benzoate,controversial,0
+sodium bicarbonate,not harmful,2
+sodium bicarbonite,controversial,0
+sodium bisulfate,harmful,1
+sodium bisulfite,controversial,0
+sodium carbonate,harmful,1
+sodium caseinate,controversial,0
+sodium diacetate,controversial,0
+sodium erythorbate,controversial,0
+sodium gluconate,not harmful,2
+sodium hexametaphosphate,controversial,0
+sodium hydroxide,harmful,1
+sodium lactate,controversial,0
+sodium lauryl sulfate,controversial,0
+sodium metabisulfite,controversial,0
+sodium molybdate,controversial,0
+sodium monostearate,controversial,0
+sodium nitrate,harmful,1
+sodium nitrite,harmful,1
+"sodium phosphate, dibasic",controversial,0
+"sodium phosphate, monobasic",controversial,0
+"sodium phosphate, tribasic",controversial,0
+sodium propionate,controversial,0
+sodium pyrophosphate,controversial,0
+sodium selenate,harmful,1
+sodium selenite,controversial,0
+sodium sorbate,controversial,0
+sodium stearate,controversial,0
+sodium stearoyl-2-lactylate,controversial,0
+sodium sulfate,not harmful,2
+sodium sulfite,controversial,0
+sodium tripolyphosphate,controversial,0
+sorbic acid,controversial,0
+sorbitan monostearate,controversial,0
+sorbitan tristearate,controversial,0
+sorghum extract,not harmful,2
+sorghum syrup,not harmful,2
+soy fiber,not harmful,2
+soy lecithin,not harmful,2
+"soy lecithin, modified",controversial,0
+soy protein,not harmful,2
+soy protein concentrate,not harmful,2
+soy protein isolate,controversial,0
+"soy protein, dried",not harmful,2
+"soy protein, modified",controversial,0
+soybean extract,not harmful,2
+soybean sprout extract,not harmful,2
+spearmint extract,not harmful,2
+spinach extract,not harmful,2
+spirulina extract (or color),not harmful,2
+stannic chloride,harmful,1
+stannous chloride,harmful,1
+starter cultures,not harmful,2
+stearic acid,not harmful,2
+steviol glycosides,not harmful,2
+"steviol glycosides, enzyme-modified",controversial,0
+stevioside,controversial,0
+stinging nettle extract,not harmful,2
+strawberry extract (or color),not harmful,2
+succinic acid,controversial,0
+succinylated monoglycerides,controversial,0
+sucralose,controversial,0
+sucrose,harmful,1
+sucrose acetate isobutyrate,controversial,0
+sucrose fatty acid esters,controversial,0
+"sucrose, cultured",controversial,0
+sugar beet extract,not harmful,2
+sugar beet syrup,controversial,0
+sugar cane extract,controversial,0
+sugarcane fiber,not harmful,2
+sugarcane juice,not harmful,2
+sulfiting agent,controversial,0
+sulfur dioxide,harmful,1
+sunflower lecithin,not harmful,2
+sunflower seed protein,not harmful,2
+sweet pepper juice solids,not harmful,2
+sweet pepper oleoresin,controversial,0
+sweet potato extract (or color),not harmful,2
+tamarind extract,not harmful,2
+tamarind seed gum,controversial,0
+tapioca fiber,controversial,0
+"tapioca starch, modified",controversial,0
+tapioca syrup,harmful,1
+tapioca syrup solids,controversial,0
+tara gum,controversial,0
+tarragon extract,harmful,1
+tartaric acid,not harmful,2
+tea extract,not harmful,2
+tea solids,not harmful,2
+tert-butylhydroquinone,controversial,0
+textured vegetable protein,controversial,0
+"textured vegetable protein, enriched",controversial,0
+thiamine,not harmful,2
+thiamine hydrochloride,not harmful,2
+thiamine mononitrate,not harmful,2
+thyme extract,not harmful,2
+titanium dioxide,controversial,0
+tocopherols,not harmful,2
+tocopherols,not harmful,2
+tomato fiber,not harmful,2
+torula yeast extract,controversial,0
+tragacanth gum,not harmful,2
+triacetin,controversial,0
+triethyl citrate,not harmful,2
+triglycerides,harmful,1
+trisodium citrate,not harmful,2
+"tuna extract, dried",not harmful,2
+turmeric extract (or color),not harmful,2
+turmeric oleoresin,not harmful,2
+turpentine gum,harmful,1
+"turpentine, rectified",harmful,1
+urea,controversial,0
+vanilla,not harmful,2
+vanilla absolute,controversial,0
+vanilla extract,not harmful,2
+vanillin,controversial,0
+vegetable fiber,not harmful,2
+vegetable juice extract (or color),not harmful,2
+vegetable protein,not harmful,2
+vitamin a,not harmful,2
+vitamin a acetate,controversial,0
+vitamin a palmitate,not harmful,2
+vitamin b-12,not harmful,2
+vitamin d,not harmful,2
+vitamin d-2,controversial,0
+vitamin d-3,not harmful,2
+vitamin k,not harmful,2
+watermelon seed protein,not harmful,2
+waxes,not harmful,2
+wheat extract,not harmful,2
+wheat fiber,not harmful,2
+wheat gluten,controversial,0
+wheat protein,controversial,0
+wheat protein isolate,controversial,0
+"wheat protein, cultured",controversial,0
+"wheat starch, cultured",controversial,0
+"wheat starch, modified",controversial,0
+wheat syrup (with added sulfite agent),controversial,0
+whey protein,not harmful,2
+whey protein concentrate,not harmful,2
+"whey protein concentrate, cultured",not harmful,2
+"whey protein concentrate, dried",not harmful,2
+whey protein isolate,not harmful,2
+"whey protein, modified",controversial,0
+whey solids,controversial,0
+wintergreen extract,controversial,0
+xanthan gum,not harmful,2
+xylitol,not harmful,2
+yeast cell wall extract,controversial,0
+yeast extract,controversial,0
+"yeast extract, dried",controversial,0
+yeast food,controversial,0
+yeast protein,not harmful,2
+yellow prussiate of soda,not harmful,2
+yerba mate leaf extract,controversial,0
+zinc,not harmful,2
+zinc chloride,harmful,1
+zinc citrate,not harmful,2
+zinc oxide,not harmful,2
+zinc picolinate,controversial,0
+zinc sulfate,not harmful,2
+zinc sulfate monohydrate,not harmful,2
+algae,not harmful,2
+chlorella,not harmful,2
+"chlorella, dried",not harmful,2
+dulse,not harmful,2
+"dulse, dried",not harmful,2
+edible seaweed,not harmful,2
+"edible seaweed, dried",not harmful,2
+kelp,not harmful,2
+"kelp, dried",not harmful,2
+"seaweed, dried",not harmful,2
+spirulina,not harmful,2
+spirulina concentrate,not harmful,2
+"spirulina, dried",not harmful,2
+ulva,not harmful,2
+black tea concentrate,controversial,0
+brewed black tea,not harmful,2
+"brewed black tea, decaffeinated",not harmful,2
+brewed coffee,not harmful,2
+brewed green tea,not harmful,2
+"brewed green tea, decaffeinated",not harmful,2
+brewed guayusa tea,not harmful,2
+brewed tea,not harmful,2
+brewed white tea,not harmful,2
+coconut water,not harmful,2
+coconut water concentrate,controversial,0
+coconut water from concentrate,controversial,0
+green tea concentrate,not harmful,2
+instant coffee,not harmful,2
+"instant coffee, decaffeinated",controversial,0
+water,not harmful,2
+water,not harmful,2
+"water, carbonated",not harmful,2
+"water, distilled",not harmful,2
+american cheese,harmful,1
+"american cheese, grated",harmful,1
+asiago cheese,not harmful,2
+"asiago cheese, grated",not harmful,2
+"asiago cheese, reduced fat",controversial,0
+"asiago cheese, reduced fat, dried",not harmful,2
+blue cheese,controversial,0
+"blue cheese, grated",not harmful,2
+"buffalo milk, whole",not harmful,2
+buttermilk,not harmful,2
+"buttermilk, cultured",not harmful,2
+"buttermilk, cultured, low fat, salted",not harmful,2
+"buttermilk, cultured, nonfat",not harmful,2
+"buttermilk, cultured, reduced fat, salted",not harmful,2
+"buttermilk, cultured, salted",not harmful,2
+"buttermilk, dried",not harmful,2
+"buttermilk, nonfat",not harmful,2
+"camembert cheese, dried",harmful,1
+cheddar cheese,not harmful,2
+"cheddar cheese, dried",not harmful,2
+"cheddar cheese, grated",not harmful,2
+"cheddar cheese, nonfat",not harmful,2
+"cheddar cheese, reduced fat, grated",controversial,0
+"cheddar cheese, reduced fat, grated, with added vitamin a",not harmful,2
+"cheddar cheese, reduced fat, with added vitamin a",not harmful,2
+cheese,controversial,0
+"cheese, blend of american, cheddar, mozzarella, and parmesan, enzyme-modified",controversial,0
+"cheese, blend of asiago and cheddar, grated",not harmful,2
+"cheese, blend of asiago and parmesan",not harmful,2
+"cheese, blend of blue and cheddar",harmful,1
+"cheese, blend of blue and granular",not harmful,2
+"cheese, blend of blue and granular, dried",harmful,1
+"cheese, blend of cheddar and granular",not harmful,2
+"cheese, blend of cheddar and monterey jack",not harmful,2
+"cheese, blend of cheddar and mozzarella, reduced fat, low-moisture",not harmful,2
+"cheese, dried",not harmful,2
+"cheese, enzyme-modified",controversial,0
+"cheese, nonfat",controversial,0
+"cheese, reduced fat",controversial,0
+colby cheese,not harmful,2
+cottage cheese,not harmful,2
+"cottage cheese, low fat",not harmful,2
+"cottage cheese, nonfat",not harmful,2
+"cottage cheese, reduced fat",not harmful,2
+cream,controversial,0
+cream cheese,not harmful,2
+"cream cheese, cultured",not harmful,2
+"cream cheese, dried",harmful,1
+"cream cheese, with added vitamin a",not harmful,2
+"cream, cultured",not harmful,2
+"cream, dried",not harmful,2
+"cream, reduced fat",not harmful,2
+edam cheese,not harmful,2
+ewe cream,not harmful,2
+"ewe milk, whole",not harmful,2
+"ewe milk, whole, cultured",controversial,0
+feta cheese,not harmful,2
+"feta cheese, grated",not harmful,2
+"feta cheese, reduced fat",controversial,0
+"flavored greek yogurt, low fat",controversial,0
+"flavored yogurt, low fat",controversial,0
+"flavored yogurt, nonfat",controversial,0
+fontina cheese,not harmful,2
+goat cheese,not harmful,2
+"goat cheese, grated",not harmful,2
+"goat milk, nonfat",not harmful,2
+"goat milk, reduced fat",not harmful,2
+"goat milk, whole",not harmful,2
+"goat milk, whole, cultured",not harmful,2
+"goat milk, whole, evaporated",not harmful,2
+gouda cheese,not harmful,2
+"gouda cheese, dried",not harmful,2
+grana cheese,not harmful,2
+granular cheese,harmful,1
+"greek yogurt, low fat",not harmful,2
+"greek yogurt, low fat, dried",not harmful,2
+"greek yogurt, nonfat",not harmful,2
+"greek yogurt, nonfat, dried",not harmful,2
+"greek yogurt, whole",not harmful,2
+"greek yogurt, whole, dried",not harmful,2
+havarti cheese,not harmful,2
+heavy cream,not harmful,2
+"hoop cheese, reduced fat",harmful,1
+light cream,not harmful,2
+limburger cheese,not harmful,2
+manchego cheese,not harmful,2
+"milk, condensed",harmful,1
+"milk, condensed, dried",controversial,0
+"milk, condensed, sweetened",controversial,0
+"milk, cultured",not harmful,2
+"milk, enzyme-modified",controversial,0
+"milk, low fat",controversial,0
+"milk, low fat, cultured",not harmful,2
+"milk, nonfat",not harmful,2
+"milk, nonfat, condensed",not harmful,2
+"milk, nonfat, condensed, sweetened",harmful,1
+"milk, nonfat, cultured",not harmful,2
+"milk, nonfat, cultured, dried",controversial,0
+"milk, nonfat, dried",not harmful,2
+"milk, nonfat, evaporated",not harmful,2
+"milk, nonfat, lactose-reduced",not harmful,2
+"milk, nonfat, lactose-reduced, dried",controversial,0
+"milk, nonfat, with added vitamin a, dried",not harmful,2
+"milk, reduced fat",controversial,0
+"milk, reduced fat, cultured",not harmful,2
+"milk, reduced fat, with added vitamin a and d",not harmful,2
+"milk, whole",controversial,0
+"milk, whole, cultured",not harmful,2
+"milk, whole, cultured, dried",controversial,0
+"milk, whole, dried",controversial,0
+"milk, whole, dried, enzyme-modified",controversial,0
+"milk, whole, evaporated",controversial,0
+"milk, whole, evaporated, with added vitamin d",not harmful,2
+"milk, whole, lactose-reduced",controversial,0
+"milk, whole, with added vitamin d",not harmful,2
+monterey jack cheese,not harmful,2
+monterey jack cheese with hot pepper,not harmful,2
+"monterey jack cheese, grated",not harmful,2
+mozzarella cheese,not harmful,2
+"mozzarella cheese, grated",not harmful,2
+"mozzarella cheese, low-moisture",not harmful,2
+"mozzarella cheese, low-moisture, grated",not harmful,2
+"mozzarella cheese, low-moisture, reduced fat",not harmful,2
+"mozzarella cheese, low-moisture, reduced fat, grated",not harmful,2
+"mozzarella cheese, nonfat",not harmful,2
+"mozzarella cheese, reduced fat",not harmful,2
+"mozzarella cheese, reduced fat, grated",not harmful,2
+"mozzarella cheese, reduced fat, grated, with added vitamin a",not harmful,2
+"mozzarella cheese, reduced fat, low sodium, grated",not harmful,2
+"mozzarella cheese, reduced fat, with added vitamin a",not harmful,2
+neufchatel cheese,not harmful,2
+paneer,not harmful,2
+parmesan cheese,not harmful,2
+"parmesan cheese, dried",not harmful,2
+"parmesan cheese, enzyme-modified",controversial,0
+"parmesan cheese, grated",not harmful,2
+"parmesan cheese, nonfat",not harmful,2
+"parmesan cheese, reduced fat",not harmful,2
+"parmesan cheese, reduced fat, enzyme-modified",controversial,0
+"parmesan cheese, reduced fat, grated",not harmful,2
+pasteurized process blend of american and swiss cheese,not harmful,2
+pasteurized process cheddar cheese,not harmful,2
+"pasteurized process cheddar cheese, reduced fat",controversial,0
+"pasteurized process cheese, reduced fat",not harmful,2
+pasteurized process monterey jack cheese,not harmful,2
+"pasteurized process monterey jack cheese, reduced fat",not harmful,2
+pasteurized process swiss cheese,not harmful,2
+pecorino romano cheese,not harmful,2
+provolone cheese,not harmful,2
+"provolone cheese, grated",not harmful,2
+"provolone cheese, reduced fat, grated, with added vitamin a",not harmful,2
+ricotta cheese,not harmful,2
+"ricotta cheese, grated",not harmful,2
+"ricotta cheese, low fat",not harmful,2
+"ricotta cheese, low fat, with added vitamin a",not harmful,2
+"ricotta cheese, nonfat",not harmful,2
+"ricotta cheese, nonfat, grated",not harmful,2
+"ricotta cheese, nonfat, with added vitamin a",not harmful,2
+"ricotta cheese, reduced fat",not harmful,2
+"ricotta cheese, with added vitamin a",not harmful,2
+ricotta impastata cheese,not harmful,2
+romano cheese,not harmful,2
+"romano cheese, dried",not harmful,2
+"romano cheese, enzyme-modified",controversial,0
+"romano cheese, grated",not harmful,2
+"romano cheese, grated, reduced fat",not harmful,2
+"romano cheese, reduced fat",controversial,0
+"romano cheese, reduced fat, dried",not harmful,2
+"romano cheese, reduced fat, grated",not harmful,2
+"semisoft cheese, dried",not harmful,2
+sheep cheese,not harmful,2
+sour cream,not harmful,2
+"sour cream, dried",not harmful,2
+swiss cheese,not harmful,2
+"swiss cheese, dried",not harmful,2
+"swiss cheese, grated",not harmful,2
+"swiss cheese, reduced fat",not harmful,2
+"swiss cheese, reduced fat, grated",not harmful,2
+whey,not harmful,2
+whey concentrate,not harmful,2
+"whey, cultured",not harmful,2
+"whey, cultured. dried",not harmful,2
+"whey, demineralized",controversial,0
+"whey, demineralized, dried",not harmful,2
+"whey, deproteinized",controversial,0
+"whey, deproteinized, dried",not harmful,2
+"whey, dried",not harmful,2
+"whey, lactose-reduced",not harmful,2
+"whey, lactose-reduced, dried",not harmful,2
+"whey, modified",controversial,0
+"whey, partially demineralized",controversial,0
+"whey, partially dimineralized and partially delactosed",controversial,0
+"whey, reduced protein",not harmful,2
+"yogurt, low fat",not harmful,2
+"yogurt, nonfat",not harmful,2
+"yogurt, nonfat, dried",controversial,0
+"yogurt, reduced fat",not harmful,2
+"yogurt, whole",not harmful,2
+"yogurt, whole, dried",controversial,0
+egg white,not harmful,2
+egg white (with added sulfite agent),controversial,0
+"egg white, dried",not harmful,2
+"egg white, frozen",not harmful,2
+egg yolk,not harmful,2
+"egg yolk, dried",controversial,0
+"egg yolk, frozen",not harmful,2
+"egg yolk, salted",not harmful,2
+liquid whole egg,not harmful,2
+whole egg,not harmful,2
+"whole egg, cooked",not harmful,2
+"whole egg, dried",not harmful,2
+"whole egg, frozen",not harmful,2
+anhydrous milk fat,controversial,0
+butter,controversial,0
+butter oil,not harmful,2
+"butter oil, enzyme-modified",controversial,0
+"butter, dried",not harmful,2
+"butter, salted",controversial,0
+"butter, salted, dried",harmful,1
+chicken fat,controversial,0
+lard,controversial,0
+"lard, hydrogenated",harmful,1
+"lard, partially hydrogenated",harmful,1
+mango butter,not harmful,2
+"margarine, composite, canola oil, modified palm oil",controversial,0
+"margarine, composite, canola oil, modified palm oil, modified palm kernel oil, palm oil, palm kernel oil, soybean oil, sweetened, salted",controversial,0
+"margarine, composite, canola oil, modified palm oil, palm kernel oil, with added vitamin d, salted",controversial,0
+"margarine, composite, canola oil, modified palm oil, palm oil, palm kernel oil, with added vitamin d, salted",controversial,0
+"margarine, composite, canola oil, modified palm oil, palm oil, soybean oil, with added vitamin d, salted",controversial,0
+"margarine, composite, canola oil, modified palm oil, palm oil, with added vitamin d, salted",controversial,0
+"margarine, composite, canola oil, modified palm oil, soybean oil, with added vitamin d, salted",controversial,0
+"margarine, composite, canola oil, modified palm oil, with added vitamin d, sweetened",controversial,0
+"margarine, composite, canola oil, palm oil, with added vitamin d, sweetened",controversial,0
+"margarine, composite, cottonseed oil, hydrogenated soybean oil, soybean oil, salted",controversial,0
+"margarine, composite, cottonseed oil, partially hydrogenated soybean oil, salted",harmful,1
+"margarine, composite, fractionated palm oil, palm oil",controversial,0
+"margarine, composite, fractionated palm oil, palm oil, salted",controversial,0
+"margarine, composite, hydrogenated and partially hydrogenated soybean oil",harmful,1
+"margarine, composite, hydrogenated and partially hydrogenated soybean oil, salted",harmful,1
+"margarine, composite, hydrogenated soybean oil, soybean oil",controversial,0
+"margarine, composite, hydrogenated soybean oil, soybean oil, salted",controversial,0
+"margarine, composite, hydrogenated soybean oil, soybean oil, with added vitamin d, salted",harmful,1
+"margarine, composite, modified canola oil, modified palm oil, soybean oil, with added vitamin d, salted",controversial,0
+"margarine, composite, modified palm oil, soybean oil, salted",controversial,0
+"margarine, composite, modified palm oil, soybean oil, with added vitamin a and d, salted",controversial,0
+"margarine, composite, modified palm oil, soybean oil, with added vitamin d, salted",controversial,0
+"margarine, composite, palm oil, dairy cream, salted",controversial,0
+"margarine, composite, palm oil, palm kernel oil, salted",controversial,0
+"margarine, composite, palm oil, palm kernel oil, soybean oil, salted",controversial,0
+"margarine, composite, palm oil, palm kernel oil, sunflower oil, salted",controversial,0
+"margarine, composite, palm oil, palm kernel oil, sunflower oil, with added vitamin d, salted",controversial,0
+"margarine, composite, palm oil, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil, sweetened",harmful,1
+"margarine, composite, palm oil, partially hydrogenated palm oil, soybean oil, sweetened",harmful,1
+"margarine, composite, palm oil, partially hydrogenated soybean oil, salted",harmful,1
+"margarine, composite, palm oil, soybean oil, salted",controversial,0
+"margarine, composite, palm oil, soybean oil, sweetened",controversial,0
+"margarine, composite, palm oil, soybean oil, with added vitamin d, salted",controversial,0
+"margarine, composite, palm oil, sunflower oil",controversial,0
+"margarine, composite, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil, salted",harmful,1
+"margarine, composite, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil, soybean oil, salted",harmful,1
+"margarine, composite, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil, sweetened",harmful,1
+"margarine, composite, partially hydrogenated soybean oil, soybean oil, salted",harmful,1
+"margarine, interesterified soybean oil",controversial,0
+"margarine, interesterified soybean oil, salted",controversial,0
+"margarine, palm oil, salted",controversial,0
+"margarine, partially hydrogenated palm oil, salted",harmful,1
+"margarine, partially hydrogenated soybean oil",harmful,1
+"margarine, partially hydrogenated soybean oil, salted",harmful,1
+"margarine, soybean oil",controversial,0
+"margarine, soybean oil, salted",controversial,0
+"margarine, soybean oil, with added vitamin d, salted",controversial,0
+mayonnaise,controversial,0
+milk fat,controversial,0
+"milk fat, cultured",not harmful,2
+"oil, almond",not harmful,2
+"oil, ambrette seed",not harmful,2
+"oil, angostura",not harmful,2
+"oil, anise",not harmful,2
+"oil, apricot kernel",controversial,0
+"oil, avocado",not harmful,2
+"oil, balsam fir",controversial,0
+"oil, balsam peru",controversial,0
+"oil, basil",controversial,0
+"oil, bergamot",controversial,0
+"oil, bitter almond",controversial,0
+"oil, blessed thistle",not harmful,2
+"oil, canola",controversial,0
+"oil, canola, hydrogenated",harmful,1
+"oil, canola, partially hydrogenated",harmful,1
+"oil, castor",harmful,1
+"oil, cinnamon bark",controversial,0
+"oil, cinnamon leaf",controversial,0
+"oil, citronella",not harmful,2
+"oil, citrus",not harmful,2
+"oil, clove leaf",controversial,0
+"oil, clover",not harmful,2
+"oil, coconut",controversial,0
+"oil, coconut",controversial,0
+"oil, coconut, fractionated",not harmful,2
+"oil, coconut, hydrogenated",harmful,1
+"oil, coconut, modified",controversial,0
+"oil, coconut, partially hydrogenated",harmful,1
+"oil, coriander leaf",controversial,0
+"oil, corn",controversial,0
+"oil, corn silk",controversial,0
+"oil, cottonseed",controversial,0
+"oil, cottonseed, hydrogenated",harmful,1
+"oil, cottonseed, partially hydrogenated",harmful,1
+"oil, dill seed",controversial,0
+"oil, eucalyptus",controversial,0
+"oil, galangal root",controversial,0
+"oil, grape seed",not harmful,2
+"oil, hazelnut",not harmful,2
+"oil, hemp",not harmful,2
+"oil, high oleic canola",not harmful,2
+"oil, high oleic safflower",not harmful,2
+"oil, high oleic soybean",not harmful,2
+"oil, high oleic sunflower",not harmful,2
+"oil, hydrogenatd soybean",harmful,1
+"oil, hydrogenatd soybean, partially hydrogenated soybean",harmful,1
+"oil, jasmine",not harmful,2
+"oil, lavender",not harmful,2
+"oil, lemon",controversial,0
+"oil, lemon balm",not harmful,2
+"oil, linseed",not harmful,2
+"oil, mandarin",controversial,0
+"oil, mid oleic sunflower",not harmful,2
+"oil, mushroom",controversial,0
+"oil, mustard",controversial,0
+"oil, olive",not harmful,2
+"oil, olive pomace",controversial,0
+"oil, olive, extra virgin",not harmful,2
+"oil, orange peel",controversial,0
+"oil, palm",harmful,1
+"oil, palm kernel",harmful,1
+"oil, palm kernel, fractionated",harmful,1
+"oil, palm kernel, hydrogenated",harmful,1
+"oil, palm kernel, hydrogenated, modified",harmful,1
+"oil, palm kernel, modified",harmful,1
+"oil, palm kernel, partially hydrogenated",harmful,1
+"oil, palm stearin",controversial,0
+"oil, palm stearin, hydrogenated",harmful,1
+"oil, palm, dried",controversial,0
+"oil, palm, fractionated",harmful,1
+"oil, palm, hydrogenated",harmful,1
+"oil, palm, hydrogenated, modified",harmful,1
+"oil, palm, modified",harmful,1
+"oil, palm, partially hydrogenated",harmful,1
+"oil, peach",controversial,0
+"oil, peach kernel",controversial,0
+"oil, peanut",not harmful,2
+"oil, pimiento",controversial,0
+"oil, pistachio",controversial,0
+"oil, pumpkin seed",not harmful,2
+"oil, rapeseed",not harmful,2
+"oil, rapeseed, hydrogenated",harmful,1
+"oil, rapeseed, hydrogenated, superglycerinated",harmful,1
+"oil, rapeseed, partially hydrogenated",harmful,1
+"oil, raspberry",not harmful,2
+"oil, rice",controversial,0
+"oil, rice bran",not harmful,2
+"oil, roman chamomile",controversial,0
+"oil, rose",not harmful,2
+"oil, rosemary",not harmful,2
+"oil, safflower",not harmful,2
+"oil, sage",controversial,0
+"oil, sardine",controversial,0
+"oil, sesame",not harmful,2
+"oil, shea nut",not harmful,2
+"oil, soybean",controversial,0
+"oil, soybean, hydrogenated",harmful,1
+"oil, soybean, interesterified",controversial,0
+"oil, soybean, partially hydrogenated",harmful,1
+"oil, spearmint",controversial,0
+"oil, star anise",controversial,0
+"oil, sunflower",not harmful,2
+"oil, sunflower, hydrogenated",harmful,1
+"oil, sunflower, interesterified",controversial,0
+"oil, sunflower, partially hydrogenated",harmful,1
+"oil, sweet bay leaf",controversial,0
+"oil, sweet birch",harmful,1
+"oil, tangerine",not harmful,2
+"oil, tarragon",controversial,0
+"oil, tea tree",not harmful,2
+"oil, thyme",not harmful,2
+"oil, vegetable",controversial,0
+"oil, vegetable, corn, cottonseed, palm",controversial,0
+"oil, vegetable, corn, cottonseed, partially hydrogenated soybean",harmful,1
+"oil, vegetable, corn, cottonseed, soybean",controversial,0
+"oil, vegetable, corn, cottonseed, sunflower",controversial,0
+"oil, vegetable, corn, palm",controversial,0
+"oil, vegetable, corn, palm, soybean",controversial,0
+"oil, vegetable, cottonseed oil, partially hydrogenated soybean",harmful,1
+"oil, vegetable, cottonseed, palm, palm kernel",controversial,0
+"oil, vegetable, cottonseed, palm, rapeseed, sunflower",controversial,0
+"oil, vegetable, fractionated coconut, fractionated palm kernel",harmful,1
+"oil, vegetable, fractionated palm kernel, hydrogenated palm",harmful,1
+"oil, vegetable, fractionated palm, palm",harmful,1
+"oil, vegetable, high oleic safflower, sunflower",not harmful,2
+"oil, vegetable, high oleic sunflower, high oleic safflower",not harmful,2
+"oil, vegetable, hydrogenated",harmful,1
+"oil, vegetable, hydrogenated and interesterified soybean, palm",harmful,1
+"oil, vegetable, hydrogenated canola, hydrogenated cottonseed, hydrogenated soybean",harmful,1
+"oil, vegetable, hydrogenated canola, hydrogenated palm",harmful,1
+"oil, vegetable, hydrogenated coconut, hydrogenated palm kernel",harmful,1
+"oil, vegetable, hydrogenated coconut, hydrogenated palm kernel, hydrogenated soybean",harmful,1
+"oil, vegetable, hydrogenated coconut, hydrogenated palm, hydrogenated palm kernel",harmful,1
+"oil, vegetable, hydrogenated coconut, hydrogenated soybean, palm, palm kernel",harmful,1
+"oil, vegetable, hydrogenated coconut, palm, palm kernel, soybean",harmful,1
+"oil, vegetable, hydrogenated corn, hydrogenated palm, hydrogenated soybean, hydrogenated sunflower",harmful,1
+"oil, vegetable, hydrogenated cottonseed, hydrogenated and interesterified soybean, palm",harmful,1
+"oil, vegetable, hydrogenated cottonseed, hydrogenated palm kernel",harmful,1
+"oil, vegetable, hydrogenated cottonseed, hydrogenated palm, hydrogenated soybean",harmful,1
+"oil, vegetable, hydrogenated cottonseed, hydrogenated rapeseed",harmful,1
+"oil, vegetable, hydrogenated cottonseed, hydrogenated soybean",harmful,1
+"oil, vegetable, hydrogenated cottonseed, hydrogenated soybean, interesterified soybean, palm, palm kernel",harmful,1
+"oil, vegetable, hydrogenated cottonseed, palm, soybean",harmful,1
+"oil, vegetable, hydrogenated cottonseed, soybean",harmful,1
+"oil, vegetable, hydrogenated palm kernel, hydrogenated soybean",harmful,1
+"oil, vegetable, hydrogenated palm kernel, palm",harmful,1
+"oil, vegetable, hydrogenated palm kernel, palm kernel",harmful,1
+"oil, vegetable, hydrogenated palm kernel, partially hydrogenated palm kernel",harmful,1
+"oil, vegetable, hydrogenated palm, hydrogenated palm kernel",harmful,1
+"oil, vegetable, hydrogenated palm, palm",harmful,1
+"oil, vegetable, hydrogenated palm, palm kernel",harmful,1
+"oil, vegetable, hydrogenated soybean, interesterified soybean, palm",harmful,1
+"oil, vegetable, hydrogenated soybean, interesterified soybean, palm, palm kernel",harmful,1
+"oil, vegetable, hydrogenated soybean, palm, palm kernel, soybean",harmful,1
+"oil, vegetable, interesterified sunflower, palm",controversial,0
+"oil, vegetable, modified",controversial,0
+"oil, vegetable, modified palm, soybean",controversial,0
+"oil, vegetable, palm kernel, partially hydrogenated cottonseed, partially hydrogenated soybean",harmful,1
+"oil, vegetable, palm kernel, partially hydrogenated palm",harmful,1
+"oil, vegetable, palm olein",controversial,0
+"oil, vegetable, palm, palm kernel, partially hydrogenated cottonseed, partially hydrogenated palm",harmful,1
+"oil, vegetable, palm, palm olein",controversial,0
+"oil, vegetable, palm, partially hydrogenated palm kernel",harmful,1
+"oil, vegetable, partially hyderogenated cottonseed, partially hydrogenated palm, partially hydrogenated palm kernel, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated",harmful,1
+"oil, vegetable, partially hydrogenated canola, partially hydrogenated coconut, partially hydrogenated palm, partially hydrogenated soybean, partially hydrogenated sunflower",harmful,1
+"oil, vegetable, partially hydrogenated canola, partially hydrogenated coconut, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated canola, partially hydrogenated corn, partially hydrogenated cottonseed, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated canola, partially hydrogenated corn, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated canola, partially hydrogenated cottonseed, partially hydrogenated palm, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated canola, partially hydrogenated cottonseed, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated canola, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated coconut, partially hyderogenated cottonseed, partially hydrogenated palm, partially hydrogenated palm kernel, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated coconut, partially hydrogenated cottonseed",harmful,1
+"oil, vegetable, partially hydrogenated coconut, partially hydrogenated palm kernel",harmful,1
+"oil, vegetable, partially hydrogenated coconut, partially hydrogenated palm, partially hydrogenated palm kernel",harmful,1
+"oil, vegetable, partially hydrogenated coconut, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated cottonseed, partially hydrogenated palm kernel, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated cottonseed, partially hydrogenated rapeseed, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated cottonseed, partially hydrogenated safflower, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated cottonseed, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated palm kernel, partially hydrogenated soybean",harmful,1
+"oil, vegetable, partially hydrogenated palm, partially hydrogenated palm kernel",harmful,1
+"oil, vegetable, partially hydrogenated soybean oil, soybean",harmful,1
+"oil, vegetable, soybean, sunflower",controversial,0
+"oil, walnut",not harmful,2
+"oil, west indian bay leaf",not harmful,2
+"oil, white pepper",controversial,0
+"oil, white pine bark",controversial,0
+"oil, winter savory",not harmful,2
+"oil, wintergreen",not harmful,2
+"pork, bacon fat",controversial,0
+"shortening, animal and vegetable, tallow, hydrogenated soybean oil",harmful,1
+"shortening, animal, lard",harmful,1
+"shortening, vegetable,  fractionated palm oil",harmful,1
+"shortening, vegetable, canola oil, cottonseed oil, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, canola oil, fractionated palm oil, fractionated palm kernel oil",controversial,0
+"shortening, vegetable, canola oil, fractionated palm oil, hydrogenated palm kernel oil, palm oil",harmful,1
+"shortening, vegetable, canola oil, fractionated palm oil, hydrogenated palm oil, palm kernel oil, palm oil",harmful,1
+"shortening, vegetable, canola oil, fractionated palm oil, palm oil",harmful,1
+"shortening, vegetable, canola oil, hydrogenated coconut oil, hydrogenated soybean oil, palm oil",harmful,1
+"shortening, vegetable, canola oil, hydrogenated cottonseed oil",harmful,1
+"shortening, vegetable, canola oil, hydrogenated cottonseed oil, interesterified soybean oil, palm oil, soybean oil",harmful,1
+"shortening, vegetable, canola oil, hydrogenated soybean oil, palm oil, palm kernel oil, soybean oil",harmful,1
+"shortening, vegetable, canola oil, modified palm oil, palm kernel oil",harmful,1
+"shortening, vegetable, canola oil, modified palm oil, palm oil",harmful,1
+"shortening, vegetable, canola oil, palm oil, palm kernel oil",controversial,0
+"shortening, vegetable, canola oil, palm oil, sunflower oil",controversial,0
+"shortening, vegetable, coconut oil, hydrogenated palm oil",harmful,1
+"shortening, vegetable, coconut oil, palm kernel oil",controversial,0
+"shortening, vegetable, cottonseed oil, hydrogenated cottonseed oil, hydrogenated soybean oil, palm oil, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil, soybean oil",harmful,1
+"shortening, vegetable, cottonseed oil, hydrogenated soybean oil",harmful,1
+"shortening, vegetable, cottonseed oil, hydrogenated soybean oil, interestified soybean oil",controversial,0
+"shortening, vegetable, cottonseed oil, palm oil",controversial,0
+"shortening, vegetable, cottonseed oil, palm oil, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, cottonseed oil, palm oil, partially hydrogenated palm kernel oil, soybean oil",harmful,1
+"shortening, vegetable, cottonseed oil, palm oil, soybean oil",harmful,1
+"shortening, vegetable, cottonseed oil, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, fractionated palm oil, fractionated palm kernel, fractionated palm oil, palm oil, palm kernel",harmful,1
+"shortening, vegetable, fractionated palm oil, high oleic canola oil, palm oil",controversial,0
+"shortening, vegetable, fractionated palm oil, hydrogenated canola oil, palm oil",harmful,1
+"shortening, vegetable, fractionated palm oil, palm oil",controversial,0
+"shortening, vegetable, high oleic canola oil, hydrogenated soybean oil, soybean oil, with added vitamin a, salted",harmful,1
+"shortening, vegetable, hydrogenated coconut oil",harmful,1
+"shortening, vegetable, hydrogenated coconut oil, palm oil, palm kernel oil, soybean oil",harmful,1
+"shortening, vegetable, hydrogenated cottonseed oil",harmful,1
+"shortening, vegetable, hydrogenated cottonseed oil, hydrogenated soybean oil",harmful,1
+"shortening, vegetable, hydrogenated cottonseed oil, hydrogenated soybean oil, soybean oil",harmful,1
+"shortening, vegetable, hydrogenated cottonseed oil, palm oil, soybean oil",harmful,1
+"shortening, vegetable, hydrogenated cottonseed oil, partially hydrogenated soybean oil, soybean oil",harmful,1
+"shortening, vegetable, hydrogenated fractionated palm oil, hydrogenated palm oil, hydrogenated palm kernel oil, hydrogenated soybean oil",harmful,1
+"shortening, vegetable, hydrogenated modified palm oil, hydrogenated soybean oil",harmful,1
+"shortening, vegetable, hydrogenated modified palm oil, hydrogenated soybean oil, modified palm oil",harmful,1
+"shortening, vegetable, hydrogenated palm kernel oil",harmful,1
+"shortening, vegetable, hydrogenated palm oil",harmful,1
+"shortening, vegetable, hydrogenated palm oil, hydrogenated palm kernel oil",harmful,1
+"shortening, vegetable, hydrogenated palm oil, hydrogenated soybean oil, palm oil, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil, soybean oil",harmful,1
+"shortening, vegetable, hydrogenated palm oil, hydrogenated soybean oil, palm oil, soybean oil",harmful,1
+"shortening, vegetable, hydrogenated palm oil, palm kernel oil",harmful,1
+"shortening, vegetable, hydrogenated soybean oil",harmful,1
+"shortening, vegetable, hydrogenated soybean oil, interesterified soybean oil",harmful,1
+"shortening, vegetable, hydrogenated soybean oil, interesterified soybean oil, palm oil",harmful,1
+"shortening, vegetable, hydrogenated soybean oil, soybean oil",harmful,1
+"shortening, vegetable, hydrogenated vegetable oil",harmful,1
+"shortening, vegetable, interesterified soybean oil",controversial,0
+"shortening, vegetable, modified palm oil, palm oil",harmful,1
+"shortening, vegetable, palm kernel oil",harmful,1
+"shortening, vegetable, palm oil",controversial,0
+"shortening, vegetable, palm oil, canola oil",controversial,0
+"shortening, vegetable, palm oil, palm kernel oil",harmful,1
+"shortening, vegetable, palm oil, palm kernel oil, sunflower oil",controversial,0
+"shortening, vegetable, palm oil, palm stearin",controversial,0
+"shortening, vegetable, palm oil, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil, soybean oil",harmful,1
+"shortening, vegetable, palm oil, partially hydrogenated palm kernel oil",harmful,1
+"shortening, vegetable, palm oil, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, palm oil, sal oil, shea nut oil",harmful,1
+"shortening, vegetable, palm oil, soybean oil",controversial,0
+"shortening, vegetable, palm oil, soybean oil, with added vitamin a, salted",harmful,1
+"shortening, vegetable, palm olein oil, palm stearin oil",controversial,0
+"shortening, vegetable, partially hydrogenated canola oil, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, partially hydrogenated canola oil, partially hydrogenated palm oil, partially hydrogenated soybean oil, partially hydrogenated sunflower oil",harmful,1
+"shortening, vegetable, partially hydrogenated cottonseed oil, partially hydrogenated palm oil, partially hydrogenated soybean oil, partially hydrogenated sunflower oil",harmful,1
+"shortening, vegetable, partially hydrogenated cottonseed oil, partially hydrogenated safflower oil, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, partially hydrogenated cottonseed oil, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, partially hydrogenated palm oil",harmful,1
+"shortening, vegetable, partially hydrogenated palm oil, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, partially hydrogenated soybean oil",harmful,1
+"shortening, vegetable, partially hydrogenated soybean oil, partially hydrogenated sunflower oil",harmful,1
+"shortening, vegetable, partially hydrogenated soybean oil, soybean oil",harmful,1
+"shortening, vegetable, partially hydrogenated vegetable oil",harmful,1
+"shortening, vegetable, partially hygrogenated cottonseed oil, soybean oil",harmful,1
+"shortening, vegetable, soybean oil",controversial,0
+"shortening, vegetable, vegetable oil",controversial,0
+suet,not harmful,2
+tallow,controversial,0
+"tallow, hydrogenated",controversial,0
+"tallow, partially hydrogenated",harmful,1
+turkey fat,not harmful,2
+acai berry,not harmful,2
+acai berry juice,not harmful,2
+acai berry juice concentrate,not harmful,2
+acai berry pulp,not harmful,2
+acai berry puree,not harmful,2
+acai berry puree concentrate,not harmful,2
+"acai berry, dried",not harmful,2
+acerola,not harmful,2
+acerola juice,not harmful,2
+"acerola juice, dried",not harmful,2
+acerola puree,not harmful,2
+acerola puree concentrate,not harmful,2
+"acerola, dried",not harmful,2
+apple,not harmful,2
+apple (with added sulfite agent),controversial,0
+apple cider,not harmful,2
+apple cider concentrate,not harmful,2
+apple juice,not harmful,2
+apple juice concentrate,controversial,0
+apple juice from concentrate,controversial,0
+"apple juice, dried",not harmful,2
+apple paste,not harmful,2
+apple puree,not harmful,2
+apple puree concentrate,not harmful,2
+apple puree from concentrate,not harmful,2
+"apple puree, dried",not harmful,2
+apple sauce,not harmful,2
+"apple sauce, with added ascorbic acid",not harmful,2
+"apple, dried",not harmful,2
+"apple, dried (with added sulfite agent)",controversial,0
+apricot,not harmful,2
+apricot (with added sulfite agent),controversial,0
+apricot juice concentrate,not harmful,2
+apricot kernel,harmful,1
+apricot puree,not harmful,2
+apricot puree concentrate,not harmful,2
+"apricot, dried",not harmful,2
+avocado,not harmful,2
+avocado pulp,not harmful,2
+avocado puree,not harmful,2
+banana,not harmful,2
+banana juice concentrate,not harmful,2
+banana pulp,not harmful,2
+banana puree,not harmful,2
+banana puree concentrate,not harmful,2
+"banana, dried",not harmful,2
+baobab pulp,not harmful,2
+barberry,not harmful,2
+berry,not harmful,2
+"berry, dried",not harmful,2
+bilberry,not harmful,2
+bilberry juice concentrate,not harmful,2
+black currant,not harmful,2
+black currant juice,not harmful,2
+black currant juice concentrate,not harmful,2
+black currant juice from concentrate,not harmful,2
+"black currant, dried",not harmful,2
+blackberry,not harmful,2
+blackberry juice,not harmful,2
+blackberry juice concentrate,not harmful,2
+blackberry puree,not harmful,2
+blackberry puree concentrate,not harmful,2
+"blackberry, dried",not harmful,2
+blueberry,not harmful,2
+blueberry juice,not harmful,2
+blueberry juice concentrate,not harmful,2
+blueberry juice from concentrate,not harmful,2
+blueberry puree,not harmful,2
+blueberry puree concentrate,not harmful,2
+"blueberry, dried",not harmful,2
+"blueberry, dried, sweetened",not harmful,2
+"blueberry, sweetened",harmful,1
+boysenberry,not harmful,2
+boysenberry juice,not harmful,2
+boysenberry puree,not harmful,2
+cantaloupe,not harmful,2
+"cantaloupe, dried",not harmful,2
+carrot juice,not harmful,2
+cashew fruit,not harmful,2
+cherry,not harmful,2
+cherry juice,not harmful,2
+cherry juice concentrate,not harmful,2
+cherry juice from concentrate,not harmful,2
+"cherry juice, dried",not harmful,2
+cherry puree,not harmful,2
+cherry puree concentrate,not harmful,2
+"cherry, dried",not harmful,2
+"chinese bayberry, dried",not harmful,2
+chokeberry,not harmful,2
+chokeberry juice,not harmful,2
+chokeberry juice concentrate,not harmful,2
+citron,not harmful,2
+citrus juice,not harmful,2
+citrus juice concentrate,not harmful,2
+citrus peel,not harmful,2
+"citrus peel, dried",not harmful,2
+citrus pulp,not harmful,2
+clementine,not harmful,2
+cloudberry puree,not harmful,2
+cranberry,not harmful,2
+cranberry juice,not harmful,2
+cranberry juice concentrate,not harmful,2
+"cranberry juice, dried",not harmful,2
+cranberry puree,not harmful,2
+"cranberry, dried",not harmful,2
+"cranberry, dried, sweetened",not harmful,2
+"cranberry, sweetened",harmful,1
+currant,not harmful,2
+"currant, dried",not harmful,2
+date paste,not harmful,2
+elderberry,controversial,0
+elderberry juice,not harmful,2
+fig,not harmful,2
+fig (with added sulfite agent),controversial,0
+fig paste,not harmful,2
+fig paste (with added sulfite agent),controversial,0
+"fig, dried",not harmful,2
+fruit juice,not harmful,2
+fruit juice concentrate,controversial,0
+fruit juice from concentrate,controversial,0
+"fruit juice, dried",controversial,0
+fruit pulp,not harmful,2
+fruit puree,not harmful,2
+fruit puree concentrate,not harmful,2
+"fruit, dried",not harmful,2
+"goji juice, dried",controversial,0
+"goji, dried",not harmful,2
+gooseberry,not harmful,2
+grape,not harmful,2
+grape juice,not harmful,2
+grape juice concentrate,not harmful,2
+grape juice from concentrate,controversial,0
+grape puree,not harmful,2
+grape puree concentrate,not harmful,2
+grapefruit,controversial,0
+grapefruit juice,controversial,0
+grapefruit juice concentrate,controversial,0
+grapefruit juice from concentrate,controversial,0
+"grapefruit juice, dried",harmful,1
+grapefruit pulp,harmful,1
+"grapefruit, dried",not harmful,2
+guava,not harmful,2
+guava puree,not harmful,2
+guava puree concentrate,not harmful,2
+"guava, dried",not harmful,2
+hawthorn pulp,not harmful,2
+hops,not harmful,2
+huckleberry,not harmful,2
+indian gooseberry,not harmful,2
+juice,not harmful,2
+juice concentrate,controversial,0
+juniper berry,controversial,0
+kiwifruit,not harmful,2
+kiwifruit juice,not harmful,2
+kiwifruit juice concentrate,not harmful,2
+kiwifruit juice from concentrate,not harmful,2
+"kiwifruit juice, dried",not harmful,2
+kiwifruit puree,not harmful,2
+lemon,not harmful,2
+lemon juice,not harmful,2
+lemon juice concentrate,not harmful,2
+lemon juice from concentrate,not harmful,2
+lemon juice from puree,not harmful,2
+"lemon juice, dried",not harmful,2
+lemon peel,not harmful,2
+"lemon peel, sweetened",controversial,0
+lemon pulp,not harmful,2
+lemon puree,not harmful,2
+lemon puree concentrate,not harmful,2
+"lemon, dried",not harmful,2
+lichee,not harmful,2
+lichee juice concentrate,not harmful,2
+lime,not harmful,2
+lime juice,not harmful,2
+lime juice concentrate,not harmful,2
+lime juice from concentrate,not harmful,2
+"lime juice, dried",not harmful,2
+lime peel,not harmful,2
+lime pulp,not harmful,2
+lime puree,not harmful,2
+"lime, dried",not harmful,2
+longan,not harmful,2
+mandarin orange,not harmful,2
+mandarin orange juice,not harmful,2
+mandarin orange juice concentrate,not harmful,2
+mango,not harmful,2
+mango juice,not harmful,2
+mango juice concentrate,not harmful,2
+mango juice from concentrate,not harmful,2
+mango pulp,not harmful,2
+mango puree,not harmful,2
+mango puree concentrate,not harmful,2
+mango puree from concentrate,not harmful,2
+"mango, dried",not harmful,2
+marionberry,not harmful,2
+melon juice,not harmful,2
+melon juice concentrate,not harmful,2
+monk fruit,not harmful,2
+monk fruit juice,not harmful,2
+monk fruit juice concentrate,not harmful,2
+"monk fruit, dried",not harmful,2
+muskmelon,not harmful,2
+nectarine,not harmful,2
+nectarine puree,not harmful,2
+olive,not harmful,2
+"olive, dried",not harmful,2
+orange juice,not harmful,2
+orange juice concentrate,not harmful,2
+orange juice from concentrate,controversial,0
+orange juice from puree,not harmful,2
+"orange juice, dried",not harmful,2
+orange peel,not harmful,2
+"orange peel, dried",not harmful,2
+"orange peel, sweetened",controversial,0
+orange pulp,not harmful,2
+orange puree,not harmful,2
+"orange, dried",not harmful,2
+papaya,not harmful,2
+papaya puree,not harmful,2
+"papaya, dried",not harmful,2
+partridge berry,not harmful,2
+passion fruit,not harmful,2
+passion fruit juice,not harmful,2
+passion fruit juice concentrate,not harmful,2
+passion fruit juice from concentrate,not harmful,2
+passion fruit pulp,not harmful,2
+passion fruit puree,not harmful,2
+"passion fruit, dried",not harmful,2
+"passion fruit, sweetened",harmful,1
+peach,not harmful,2
+peach juice,not harmful,2
+peach juice concentrate,not harmful,2
+peach juice from concentrate,not harmful,2
+peach puree,not harmful,2
+peach puree concentrate,not harmful,2
+peach puree from concentrate,not harmful,2
+"peach, dried",not harmful,2
+pear,not harmful,2
+pear juice,not harmful,2
+pear juice concentrate,not harmful,2
+pear juice from concentrate,not harmful,2
+pear pulp,not harmful,2
+pear puree,not harmful,2
+pear puree concentrate,not harmful,2
+pear puree from concentrate,controversial,0
+"pear, dried",not harmful,2
+pineapple,not harmful,2
+pineapple juice,not harmful,2
+pineapple juice concentrate,not harmful,2
+pineapple juice from concentrate,not harmful,2
+pineapple pulp,not harmful,2
+pineapple puree,not harmful,2
+pineapple puree concentrate,not harmful,2
+"pineapple, dried",not harmful,2
+"pineapple, in juice",not harmful,2
+pitaya,not harmful,2
+pitaya juice,not harmful,2
+pitaya puree,not harmful,2
+"pitaya, dried",not harmful,2
+plantain,not harmful,2
+plum,not harmful,2
+plum juice concentrate,not harmful,2
+plum pulp,not harmful,2
+plum puree,not harmful,2
+pomegranate,not harmful,2
+pomegranate juice,not harmful,2
+pomegranate juice concentrate,not harmful,2
+pomegranate juice from concentrate,not harmful,2
+"pomegranate juice, dried",not harmful,2
+"pomegranate, dried",not harmful,2
+prickly pear juice,not harmful,2
+prune,not harmful,2
+prune juice,not harmful,2
+prune juice concentrate,not harmful,2
+prune puree,not harmful,2
+quince,not harmful,2
+quince pulp,not harmful,2
+quince puree,not harmful,2
+"quince, dried",not harmful,2
+raisin,not harmful,2
+raisin juice concentrate,harmful,1
+raisin paste,not harmful,2
+raisins (with added sulfite agent),controversial,0
+raspberry,not harmful,2
+raspberry juice,not harmful,2
+raspberry juice concentrate,not harmful,2
+raspberry juice from concentrate,not harmful,2
+raspberry pulp,not harmful,2
+raspberry puree,not harmful,2
+raspberry puree concentrate,not harmful,2
+raspberry seed,not harmful,2
+"raspberry, dried",not harmful,2
+reconstituted apple,not harmful,2
+reconstituted apples (with added sulfite agent),controversial,0
+red currant,not harmful,2
+red currant juice,not harmful,2
+red currant juice concentrate,not harmful,2
+rose hip,not harmful,2
+"rose hip, dried",not harmful,2
+"sea buckthorn, dried",not harmful,2
+sloe berry,not harmful,2
+"sour cherry, dried",not harmful,2
+soursop puree,not harmful,2
+star fruit,harmful,1
+star fruit juice concentrate,harmful,1
+"strawberries, dried, sweetened",not harmful,2
+strawberry,not harmful,2
+strawberry juice,not harmful,2
+strawberry juice concentrate,not harmful,2
+strawberry juice from concentrate,not harmful,2
+"strawberry juice, dried",not harmful,2
+strawberry puree,not harmful,2
+strawberry puree concentrate,not harmful,2
+"strawberry puree, dried",not harmful,2
+"strawberry, dried",not harmful,2
+sweet orange,not harmful,2
+tamarind,not harmful,2
+tamarind juice,not harmful,2
+tamarind juice concentrate,not harmful,2
+tamarind paste,not harmful,2
+tamarind pulp,not harmful,2
+tamarind puree,not harmful,2
+"tamarind, dried",not harmful,2
+tangerine,not harmful,2
+tangerine juice,not harmful,2
+tangerine juice concentrate,controversial,0
+tangerine juice from concentrate,controversial,0
+tangerine peel,not harmful,2
+tangerine pulp,not harmful,2
+tangerine puree,not harmful,2
+tomatillo,not harmful,2
+tomatillo puree,not harmful,2
+"tomatillo, roasted",not harmful,2
+watermelon,not harmful,2
+watermelon juice,not harmful,2
+watermelon juice concentrate,not harmful,2
+watermelon juice from concentrate,not harmful,2
+"watermelon juice, dried",not harmful,2
+yuzu,not harmful,2
+bakers yeast,not harmful,2
+brewers yeast,not harmful,2
+"brewers yeast, dried",not harmful,2
+geotrichum candidum,controversial,0
+mushroom,not harmful,2
+mushroom juice,not harmful,2
+mushroom juice concentrate,not harmful,2
+"mushroom, cooked",not harmful,2
+"mushroom, dried",not harmful,2
+"mushroom, in juice, baked",not harmful,2
+"mushroom, roasted",not harmful,2
+reconstituted mushroom,not harmful,2
+torula yeast,not harmful,2
+"torula yeast, dried",not harmful,2
+truffle,not harmful,2
+yeast,not harmful,2
+"yeast, deactivated",not harmful,2
+"yeast, dried",not harmful,2
+amaranth flour,not harmful,2
+"amaranth flour, roasted",not harmful,2
+amaranth grain,not harmful,2
+"amaranth, puffed",not harmful,2
+"amaranth, sprouted",not harmful,2
+arrowroot starch,not harmful,2
+barley,not harmful,2
+barley flour,not harmful,2
+"barley flour, malted",not harmful,2
+"barley flour, malted, enriched",not harmful,2
+"barley flour, roasted",not harmful,2
+"barley flour, whole-grain",not harmful,2
+"barley, cooked",not harmful,2
+"barley, malted",not harmful,2
+"barley, malted, roasted",not harmful,2
+"barley, pearled",not harmful,2
+"barley, puffed",not harmful,2
+"barley, roasted",not harmful,2
+"barley, sprouted",not harmful,2
+bran,not harmful,2
+brown rice,not harmful,2
+brown rice flour,not harmful,2
+"brown rice flour, cultured",not harmful,2
+"brown rice flour, parboiled",not harmful,2
+"brown rice pasta, salted",not harmful,2
+"brown rice, cooked",not harmful,2
+"brown rice, cultured",not harmful,2
+"brown rice, parboiled",not harmful,2
+"brown rice, partially milled",not harmful,2
+"brown rice, puffed",not harmful,2
+"brown rice, sprouted",not harmful,2
+buckwheat,not harmful,2
+buckwheat bran,not harmful,2
+buckwheat flour,not harmful,2
+"buckwheat flour, whole-grain",not harmful,2
+"buckwheat, sprouted",not harmful,2
+bulgur,not harmful,2
+cassava starch,not harmful,2
+corn,controversial,0
+corn bran,not harmful,2
+corn flour,not harmful,2
+"corn flour, cultured",not harmful,2
+"corn flour, enriched",not harmful,2
+"corn flour, malted",controversial,0
+"corn flour, roasted",not harmful,2
+"corn flour, whole-grain",not harmful,2
+corn masa flour,not harmful,2
+"corn masa flour, enriched",not harmful,2
+"corn meal, whole-grain",not harmful,2
+"corn meal, whole-grain, enriched",not harmful,2
+corn starch,not harmful,2
+"corn starch, waxy",controversial,0
+"corn, cooked, dried",not harmful,2
+"corn, malted",not harmful,2
+"corn, roasted",not harmful,2
+"corn, sprouted",not harmful,2
+degerminated corn flour,controversial,0
+degerminated corn meal,controversial,0
+"degerminated corn meal, enriched",not harmful,2
+farro,not harmful,2
+farro flour,not harmful,2
+glutinous rice,not harmful,2
+glutinous rice flour,not harmful,2
+hominy,not harmful,2
+"hominy, cooked",not harmful,2
+hydrolyzed oat,controversial,0
+malt,not harmful,2
+millet,not harmful,2
+"millet flour, whole-grain",not harmful,2
+"millet, sprouted",not harmful,2
+multi-grain noodles,not harmful,2
+"multi-grain noodles, salted",not harmful,2
+multi-grain pasta,not harmful,2
+"multi-grain pasta, enriched (not as per fda standards)",controversial,0
+noodles,controversial,0
+"noodles, baked, salted",not harmful,2
+"noodles, cooked",not harmful,2
+"noodles, cooked, salted",not harmful,2
+"noodles, enriched",not harmful,2
+"noodles, enriched, cooked in oil",not harmful,2
+"noodles, enriched, cooked, salted",not harmful,2
+"noodles, enriched, salted",not harmful,2
+"noodles, salted",controversial,0
+oat,not harmful,2
+oat bran,not harmful,2
+"oat flour, whole-grain",not harmful,2
+"oat, sprouted",not harmful,2
+oatmeal,not harmful,2
+pasta,not harmful,2
+"pasta, cooked",not harmful,2
+"pasta, cooked in oil",not harmful,2
+"pasta, cooked, salted",not harmful,2
+"pasta, enriched",not harmful,2
+"pasta, enriched (not as per fda standards), salted",controversial,0
+"pasta, enriched, cooked",not harmful,2
+"pasta, enriched, cooked in oil",not harmful,2
+"pasta, enriched, salted",not harmful,2
+potato starch,not harmful,2
+quinoa flour,not harmful,2
+"quinoa flour, cultured",not harmful,2
+quinoa grain,not harmful,2
+"quinoa grain, cooked",not harmful,2
+"quinoa grain, cultured",not harmful,2
+"quinoa grain, puffed",not harmful,2
+"quinoa grain, sprouted",not harmful,2
+rice,not harmful,2
+rice bran,not harmful,2
+rice flour,not harmful,2
+rice hulls,not harmful,2
+rice noodles,not harmful,2
+"rice noodles, cooked",not harmful,2
+"rice noodles, cooked in oil",not harmful,2
+rice pasta,not harmful,2
+"rice pasta, cooked in oil",not harmful,2
+rice starch,not harmful,2
+"rice starch, waxy",not harmful,2
+"rice, cooked",not harmful,2
+"rice, cultured",not harmful,2
+"rice, enriched (not as per fda standards)",harmful,1
+"rice, enriched (not as per fda standards), cooked",controversial,0
+"rice, enriched (not as per fda standards), parboiled",controversial,0
+"rice, parboiled",not harmful,2
+"rice, puffed",not harmful,2
+rolled barley,not harmful,2
+rolled corn,not harmful,2
+rolled millet,not harmful,2
+rolled oat,not harmful,2
+rolled rye,not harmful,2
+rolled spelt,not harmful,2
+rolled sprouted barley,not harmful,2
+rolled sprouted oat,not harmful,2
+rolled sprouted rye,not harmful,2
+rolled triticale,not harmful,2
+rolled wheat,not harmful,2
+"rolled wheat, malted",not harmful,2
+rye,not harmful,2
+rye flour,not harmful,2
+"rye flour, bleached",harmful,1
+"rye flour, cultured",not harmful,2
+"rye flour, malted",not harmful,2
+"rye flour, roasted",not harmful,2
+"rye flour, whole-grain",not harmful,2
+"rye, roasted",not harmful,2
+"rye, sprouted",not harmful,2
+semolina,not harmful,2
+"semolina, enriched",not harmful,2
+"semolina, enriched (not as per fda standards)",controversial,0
+sorghum,not harmful,2
+sorghum flour,not harmful,2
+"sorghum flour, whole-grain",not harmful,2
+"sorghum, puffed",not harmful,2
+"sorghum, sprouted",not harmful,2
+spelt,not harmful,2
+spelt flour,not harmful,2
+"spelt flour, whole-grain",not harmful,2
+"spelt, sprouted",not harmful,2
+sprouted barley flour,not harmful,2
+"sprouted wheat flour, whole-grain",not harmful,2
+sweet potato starch,not harmful,2
+tapioca starch,not harmful,2
+teff,not harmful,2
+"teff flour, whole-grain",not harmful,2
+"teff, sprouted",not harmful,2
+"triticale flour, whole-grain",not harmful,2
+wheat,not harmful,2
+wheat bran,not harmful,2
+wheat flour,not harmful,2
+"wheat flour, bleached",controversial,0
+"wheat flour, bleached and unbleached",controversial,0
+"wheat flour, bleached and unbleached, enriched",controversial,0
+"wheat flour, bleached and unbleached, with added malted barley flour, enriched",controversial,0
+"wheat flour, bleached, bromated, enriched (not as per fda standards)",controversial,0
+"wheat flour, bleached, bromated, with added enzymes",controversial,0
+"wheat flour, bleached, bromated, with added enzymes, enriched",controversial,0
+"wheat flour, bleached, bromated, with added malted barley flour and enzymes, enriched",controversial,0
+"wheat flour, bleached, bromated, with added malted barley flour, enriched",controversial,0
+"wheat flour, bleached, enriched",controversial,0
+"wheat flour, bleached, enriched (not as per fda standards)",harmful,1
+"wheat flour, bleached, with added ascorbic acid and enzymes, enriched",not harmful,2
+"wheat flour, bleached, with added ascorbic acid and malted barley flour, enriched",controversial,0
+"wheat flour, bleached, with added ascorbic acid, enriched",controversial,0
+"wheat flour, bleached, with added enzymes, enriched",controversial,0
+"wheat flour, bleached, with added malted barley flour",controversial,0
+"wheat flour, bleached, with added malted barley flour and enzymes, enriched",controversial,0
+"wheat flour, bleached, with added malted barley flour and enzymes, enriched (not as per fda standards)",controversial,0
+"wheat flour, bleached, with added malted barley flour, enriched",controversial,0
+"wheat flour, bleached, with added malted barley flour, enriched (not as per fda standards)",controversial,0
+"wheat flour, bleached, with added vitamin a, enriched",not harmful,2
+"wheat flour, bromated, with added malted barley flour, enriched",controversial,0
+"wheat flour, cultured",not harmful,2
+"wheat flour, enriched",not harmful,2
+"wheat flour, enriched (not as per fda standards)",controversial,0
+"wheat flour, roasted",not harmful,2
+"wheat flour, whole-grain",not harmful,2
+"wheat flour, whole-grain, cultured",not harmful,2
+"wheat flour, whole-grain, enriched",not harmful,2
+"wheat flour, whole-grain, with added ascorbic acid and enzymes",not harmful,2
+"wheat flour, whole-grain, with added malted barley flour",not harmful,2
+"wheat flour, whole-grain, with added malted barley flour, enriched (not as per fda standards)",controversial,0
+"wheat flour, with added ascorbic acid and enzymes, enriched",not harmful,2
+"wheat flour, with added ascorbic acid and malted barley flour, enriched",not harmful,2
+"wheat flour, with added ascorbic acid, enriched",not harmful,2
+"wheat flour, with added ascorbic acid, enzymes, malted barley flour, enriched",not harmful,2
+"wheat flour, with added calcium, enriched (not as per fda standards)",controversial,0
+"wheat flour, with added enzymes",controversial,0
+"wheat flour, with added enzymes, enriched",not harmful,2
+"wheat flour, with added malted barley flour",not harmful,2
+"wheat flour, with added malted barley flour and enzymes, enriched",not harmful,2
+"wheat flour, with added malted barley flour and wheat starch, enriched (not as per fda standards)",controversial,0
+"wheat flour, with added malted barley flour, ascorbic acid and enzymes, enriched",not harmful,2
+"wheat flour, with added malted barley flour, enriched",not harmful,2
+"wheat flour, with added malted barley flour, enriched  (not as per fda standards)",harmful,1
+"wheat flour, with added malted barley flour, enriched (not as per fda standards)",controversial,0
+"wheat flour, with added wheat starch, enriched",not harmful,2
+wheat germ,not harmful,2
+"wheat germ, defatted",not harmful,2
+"wheat germ, defatted, roasted",not harmful,2
+"wheat germ, roasted",not harmful,2
+wheat starch,controversial,0
+"wheat, cooked",not harmful,2
+"wheat, cultured",not harmful,2
+"wheat, malted",not harmful,2
+"wheat, puffed",not harmful,2
+"wheat, roasted",not harmful,2
+"wheat, sprouted",not harmful,2
+whole-wheat pasta,not harmful,2
+"whole-wheat pasta, cooked",not harmful,2
+wild rice,not harmful,2
+"wild rice, cooked",not harmful,2
+alfalfa,not harmful,2
+"alfalfa, sprouted",harmful,1
+"bean, cooked, salted",not harmful,2
+black bean,not harmful,2
+"black bean, cooked",not harmful,2
+"black bean, cooked, dried",not harmful,2
+cannellini bean,not harmful,2
+chickpea,not harmful,2
+chickpea flour,not harmful,2
+chickpea puree,not harmful,2
+"chickpea, cooked",not harmful,2
+"chickpea, cooked, salted",not harmful,2
+"chickpea, dried",not harmful,2
+cowpea,not harmful,2
+cranberry bean,not harmful,2
+edemame bean,not harmful,2
+"edemame bean, roasted",not harmful,2
+faba bean,not harmful,2
+faba bean flour,not harmful,2
+great northern bean,not harmful,2
+"great northern bean, cooked",not harmful,2
+green bean,not harmful,2
+"green bean, dried",not harmful,2
+kidney bean,harmful,1
+"kidney bean, cooked",not harmful,2
+lentil,not harmful,2
+lentil flour,not harmful,2
+"lentil, cooked, dried",not harmful,2
+"lentil, sprouted",not harmful,2
+lima bean,not harmful,2
+"lima bean, cooked",not harmful,2
+mung bean,not harmful,2
+navy bean,not harmful,2
+navy bean flour,not harmful,2
+navy bean puree,not harmful,2
+"navy bean, cooked",not harmful,2
+"navy bean, cooked, dried",not harmful,2
+pea flour,not harmful,2
+pea juice concentrate,not harmful,2
+pea puree,not harmful,2
+pea starch,not harmful,2
+peanut,not harmful,2
+"peanut flour, defatted",not harmful,2
+"peanut flour, partially defatted",not harmful,2
+"peanut flour, roasted",not harmful,2
+"peanut, dried",not harmful,2
+"peanut, partially defatted",not harmful,2
+"peanut, roasted",not harmful,2
+"peanut, roasted in oil",not harmful,2
+"peanut, roasted, salted",not harmful,2
+"peanut, salted",not harmful,2
+peas,not harmful,2
+"peas, dried",not harmful,2
+"peas, roasted",not harmful,2
+pink bean,not harmful,2
+pinto bean,not harmful,2
+"pinto bean, cooked",not harmful,2
+"pinto bean, cooked, dried",not harmful,2
+"pinto bean, sprouted",not harmful,2
+red bean,not harmful,2
+"red bean, cooked, dried",not harmful,2
+rolled soybean,not harmful,2
+soy bran,not harmful,2
+soy flour,not harmful,2
+"soy flour, defatted",not harmful,2
+"soy flour, defatted, with added enzymes",controversial,0
+"soy flour, partially defatted",controversial,0
+"soy flour, roasted",not harmful,2
+soybean,not harmful,2
+soybean meal,not harmful,2
+soybean paste,not harmful,2
+soybean puree,not harmful,2
+"soybean, cooked",not harmful,2
+"soybean, cultured",not harmful,2
+"soybean, roasted",not harmful,2
+"soybean, sprouted",not harmful,2
+"soybean, sprouted, dried",controversial,0
+sugar pea,not harmful,2
+tofu,not harmful,2
+"tofu, dried",not harmful,2
+beef,controversial,0
+beef brisket,controversial,0
+beef heart,not harmful,2
+"beef rib, cooked",controversial,0
+"beef rib, in juice, cooked",not harmful,2
+"beef sirloin, in juice, roasted",not harmful,2
+"beef sirloin, roasted",not harmful,2
+beef steak,controversial,0
+"beef steak, broiled",controversial,0
+"beef steak, cooked",controversial,0
+"beef, cooked",controversial,0
+"beef, cooked, dried",controversial,0
+"beef, in juice",not harmful,2
+"beef, in juice, roasted",not harmful,2
+"beef, roasted",controversial,0
+"beef, roasted, salted",controversial,0
+"bologna, beef",harmful,1
+buffalo meat,controversial,0
+chicken bone,not harmful,2
+chicken breast meat,not harmful,2
+"chicken breast meat, broiled",not harmful,2
+"chicken breast meat, cooked",not harmful,2
+"chicken breast meat, cooked, salted",not harmful,2
+"chicken breast meat, grilled",not harmful,2
+"chicken breast meat, roasted",not harmful,2
+"chicken breast meat, skinless",not harmful,2
+"chicken breast meat, smoked",controversial,0
+chicken dark meat,not harmful,2
+"chicken dark meat, cooked",not harmful,2
+"chicken dark meat, grilled",not harmful,2
+"chicken dark meat, roasted",not harmful,2
+chicken drumstick,not harmful,2
+chicken juice,controversial,0
+chicken leg meat,not harmful,2
+"chicken leg meat, skinless",not harmful,2
+chicken meat,controversial,0
+"chicken meat, cooked",not harmful,2
+"chicken meat, cooked, dried",not harmful,2
+"chicken meat, grilled",not harmful,2
+"chicken meat, in juice",not harmful,2
+"chicken meat, in juice, cooked",not harmful,2
+"chicken meat, in juice, roasted",not harmful,2
+"chicken meat, roasted",controversial,0
+"chicken meat, skinless",not harmful,2
+chicken skin,harmful,1
+"chicken skin, cooked",harmful,1
+"chicken skin, roasted",harmful,1
+chicken tenderloin,not harmful,2
+chicken thigh meat,not harmful,2
+chorizo,controversial,0
+ground beef,controversial,0
+"ground beef, cooked",not harmful,2
+ground pork,controversial,0
+lamb meat,controversial,0
+"pepperoni, beef and pork",harmful,1
+"pepperoni, pork",harmful,1
+pork,controversial,0
+pork belly,harmful,1
+pork loin,not harmful,2
+pork rib,controversial,0
+"pork rib, cooked",not harmful,2
+pork shoulder,controversial,0
+"pork, bacon",controversial,0
+"pork, bacon, cooked",controversial,0
+"pork, cooked",controversial,0
+"pork, cured, water added",controversial,0
+"pork, ham and water product",controversial,0
+"pork, ham with natural juices, water added",controversial,0
+"pork, ham, smoked",controversial,0
+"pork, ham, water added",controversial,0
+"pork, ham, water added, cooked",controversial,0
+"pork, ham, water added, low sodium",controversial,0
+"pork, roasted",controversial,0
+"salami, beef and pork",harmful,1
+"salami, pork",harmful,1
+"salt pork, water added",harmful,1
+"sausage, beef",harmful,1
+"sausage, beef and pork",harmful,1
+"sausage, chicken, cooked",harmful,1
+"sausage, pork",controversial,0
+"sausage, pork, cooked",controversial,0
+"sausage, turkey",controversial,0
+scallop meat,not harmful,2
+sheep meat,controversial,0
+turkey breast meat,not harmful,2
+"turkey breast meat, in juice",not harmful,2
+"turkey breast meat, roasted",not harmful,2
+turkey dark meat,not harmful,2
+"turkey dark meat, cooked",not harmful,2
+turkey meat,not harmful,2
+"turkey meat, cooked",not harmful,2
+"turkey meat, in juice",not harmful,2
+"turkey meat, in juice, roasted",not harmful,2
+"turkey meat, roasted",not harmful,2
+turkey skin,harmful,1
+veal,controversial,0
+almond,not harmful,2
+almond flour,not harmful,2
+almond paste,not harmful,2
+"almond, roasted",not harmful,2
+"almond, sprouted",not harmful,2
+brazil nut,not harmful,2
+cashew nut,not harmful,2
+"cashew nut, roasted",not harmful,2
+"cashew nut, roasted in oil",not harmful,2
+"cashew nut, salted",harmful,1
+chia seed,not harmful,2
+chia seed flour,not harmful,2
+"chia seed, sprouted",not harmful,2
+chocolate liquor,not harmful,2
+chocolate liquor (processed with alkali),controversial,0
+cocoa bean,not harmful,2
+cocoa butter,not harmful,2
+cocoa nibs,not harmful,2
+cocoa powder,not harmful,2
+cocoa powder (processed with alkali),controversial,0
+"cocoa powder, low fat",not harmful,2
+"cocoa powder, low fat (processed with alkali)",controversial,0
+"cocoa powder, reduced fat",not harmful,2
+coconut,not harmful,2
+coconut (with added sulfite agent),controversial,0
+"coconut (with added sulfite agent), dried",harmful,1
+"coconut (with added sulfite agent), roasted",controversial,0
+coconut cream,not harmful,2
+coconut meat,not harmful,2
+"coconut, dried",not harmful,2
+"coconut, dried (with added sulfite agent)",controversial,0
+coffee bean,controversial,0
+"cottonseed flour, defatted",controversial,0
+"cottonseed flour, partially defatted, cooked",not harmful,2
+"cottonseed flour, partially defatted, roasted",controversial,0
+grape seed,not harmful,2
+hazelnut,not harmful,2
+hazelnut paste,not harmful,2
+"hazelnut, roasted",not harmful,2
+hemp seed,not harmful,2
+illipe,not harmful,2
+illipe butter,not harmful,2
+linseed,not harmful,2
+linseed flour,not harmful,2
+"linseed flour, defatted",not harmful,2
+"linseed, sprouted",not harmful,2
+macadamia nut,not harmful,2
+"macadamia nut, roasted",not harmful,2
+milk chocolate,harmful,1
+pecan,not harmful,2
+pecan flour,not harmful,2
+"pecans, roasted",not harmful,2
+pine nut,not harmful,2
+"pine nut, roasted",not harmful,2
+pistachio,not harmful,2
+pistachio flour,not harmful,2
+"pistachio, roasted",not harmful,2
+psyllium seed husk,not harmful,2
+pumpkin seed,not harmful,2
+"pumpkin seed, roasted",not harmful,2
+"pumpkin seed, roasted in oil",not harmful,2
+"pumpkin seed, roasted in oil, salted",not harmful,2
+semisweet chocolate,not harmful,2
+sesame flour,not harmful,2
+sesame meal,controversial,0
+sesame paste,not harmful,2
+sesame seed,not harmful,2
+"sesame seed, roasted",not harmful,2
+shea butter,not harmful,2
+shea nut,not harmful,2
+strawberry seed,not harmful,2
+sunflower kernel,not harmful,2
+"sunflower kernel, roasted in oil",not harmful,2
+sunflower seed,not harmful,2
+sweet chocolate,harmful,1
+walnut,not harmful,2
+white chocolate,harmful,1
+anchovy,not harmful,2
+anchovy puree,not harmful,2
+"anchovy, cured",not harmful,2
+arrowtooth flounder,not harmful,2
+bonito,not harmful,2
+"bonito, dried",not harmful,2
+clam,not harmful,2
+clam juice,not harmful,2
+clam juice concentrate,not harmful,2
+clam meat,not harmful,2
+"clam, cooked",not harmful,2
+"clam, in juice",not harmful,2
+"clam, in juice, cooked",not harmful,2
+cod,not harmful,2
+"cod, dried",not harmful,2
+crab meat,not harmful,2
+"crab meat, cooked",not harmful,2
+"crab meat, in juice, baked",not harmful,2
+crayfish,not harmful,2
+cuttlefish,not harmful,2
+eel,not harmful,2
+fish roe,not harmful,2
+flounder,not harmful,2
+haddock,not harmful,2
+halibut,not harmful,2
+"halibut, smoked",not harmful,2
+lobster meat,not harmful,2
+"lobster meat, cooked",not harmful,2
+mackerel,not harmful,2
+mussel,not harmful,2
+mussel meat,not harmful,2
+"mussel, cooked",not harmful,2
+oyster meat,not harmful,2
+"oyster, cooked",not harmful,2
+pollock,not harmful,2
+"pollock, baked",not harmful,2
+"pollock, cooked",not harmful,2
+salmon,not harmful,2
+"salmon, cooked",not harmful,2
+"salmon, smoked",not harmful,2
+sardine,not harmful,2
+shrimp,not harmful,2
+"shrimp meat, cooked",not harmful,2
+"shrimp meat, dried",not harmful,2
+"shrimp shell, dried",not harmful,2
+"shrimp, in juice, cooked",not harmful,2
+squid,not harmful,2
+tilapia,not harmful,2
+tuna,not harmful,2
+"tuna, cooked",not harmful,2
+"tuna, dried",not harmful,2
+"alfalfa grass, dried",not harmful,2
+allspice,not harmful,2
+anise,not harmful,2
+annatto seed,not harmful,2
+arnica flower,controversial,0
+artemisia,controversial,0
+ashwagandha,not harmful,2
+balsamic vinegar,not harmful,2
+balsamic vinegar concentrate,not harmful,2
+"balsamic vinegar, dried",not harmful,2
+basil,not harmful,2
+"basil, dried",not harmful,2
+beef broth,controversial,0
+"beef broth, dried",controversial,0
+beef stock,controversial,0
+beef stock concentrate,controversial,0
+beef stock from concentrate,controversial,0
+"beef stock, dried",controversial,0
+black caraway seed,not harmful,2
+black pepper,not harmful,2
+"black pepper, smoked",controversial,0
+black tea,not harmful,2
+brine solution,not harmful,2
+broth,not harmful,2
+cabbage stock,not harmful,2
+capers,not harmful,2
+caraway seed,not harmful,2
+"caraway seed, sprouted",not harmful,2
+cardamom,not harmful,2
+carrot stock,not harmful,2
+celery leaf,not harmful,2
+celery seed,controversial,0
+"celery seed, dried",not harmful,2
+chamomile,not harmful,2
+chestnut leaf,controversial,0
+chicken broth,not harmful,2
+chicken broth concentrate,controversial,0
+chicken broth from concentrate,controversial,0
+"chicken broth, dried",not harmful,2
+chicken stock,not harmful,2
+chicken stock concentrate,controversial,0
+chicken stock from concentrate,controversial,0
+"chicken stock, dried",not harmful,2
+chives,not harmful,2
+"chives, dried",not harmful,2
+cider vinegar,not harmful,2
+cilantro,controversial,0
+cinnamon,not harmful,2
+clam broth,not harmful,2
+clam broth concentrate,not harmful,2
+clam broth from concentrate,not harmful,2
+"clam broth, dried",not harmful,2
+clove,not harmful,2
+clover,not harmful,2
+"clover, dried",not harmful,2
+coriander,not harmful,2
+coriander seed,not harmful,2
+"coriander, dried",not harmful,2
+corn vinegar,not harmful,2
+crab stock,not harmful,2
+cumin seed,not harmful,2
+curry leaf,not harmful,2
+dill,not harmful,2
+dill seed,not harmful,2
+"dill, dried",not harmful,2
+edible flower,not harmful,2
+epazote,not harmful,2
+fennel seed,not harmful,2
+fenugreek seed,not harmful,2
+fish sauce,not harmful,2
+fish stock,not harmful,2
+flavored salt,controversial,0
+german chamomile flower,not harmful,2
+"ginger, dried",not harmful,2
+ginseng,controversial,0
+green tea,not harmful,2
+"green tea, decaffeinated",not harmful,2
+guayusa tea,not harmful,2
+hawthorn,not harmful,2
+herbs,not harmful,2
+"herbs, dried",not harmful,2
+hibiscus,not harmful,2
+hibiscus juice,not harmful,2
+hibiscus juice concentrate,not harmful,2
+"hibiscus, dried",not harmful,2
+holy basil,not harmful,2
+horseradish,not harmful,2
+hot pepper juice concentrate,not harmful,2
+hot pepper paste,not harmful,2
+hot pepper sauce,not harmful,2
+"hot pepper sauce, dried",not harmful,2
+hot pepper seed,not harmful,2
+"hot pepper, dried",not harmful,2
+"hot pepper, dried (with added sulfite agent)",controversial,0
+"hot pepper, smoked, dried",controversial,0
+ketchup,not harmful,2
+lavender,not harmful,2
+"lavender, dried",not harmful,2
+lemon balm,not harmful,2
+lemon balm leaf,not harmful,2
+lemon myrtle,not harmful,2
+"lemon peel, dried",not harmful,2
+lemon verbena,not harmful,2
+lemongrass,not harmful,2
+"lemongrass, dried",not harmful,2
+licorice,controversial,0
+licorice juice,controversial,0
+lobster stock,not harmful,2
+mace,not harmful,2
+malt vinegar,not harmful,2
+marjoram,not harmful,2
+"mesquite, dried",not harmful,2
+mexican oregano,not harmful,2
+mint,not harmful,2
+"mint, dried",not harmful,2
+mushroom broth,not harmful,2
+mushroom stock,not harmful,2
+mustard bran,not harmful,2
+mustard flour,controversial,0
+mustard flower,not harmful,2
+mustard seed,not harmful,2
+nutmeg,controversial,0
+onion broth,not harmful,2
+onion stock,not harmful,2
+oolong tea,not harmful,2
+oregano,not harmful,2
+"oregano, dried",not harmful,2
+paprika,not harmful,2
+"paprika, smoked",not harmful,2
+parsley,not harmful,2
+parsley juice,not harmful,2
+"parsley, dried",not harmful,2
+peach leaf,controversial,0
+peppermint leaf,not harmful,2
+peppermint plant,not harmful,2
+poppy seed,not harmful,2
+pork broth,harmful,1
+"pork broth, dried",controversial,0
+pork stock,controversial,0
+pork stock concentrate,controversial,0
+"pork stock, dried",not harmful,2
+prepared mustard,not harmful,2
+rice vinegar,not harmful,2
+rock salt,not harmful,2
+roman chamomile flower,not harmful,2
+rooibos tea,not harmful,2
+rose flower,not harmful,2
+roselle,not harmful,2
+rosemary,not harmful,2
+"rosemary, dried",not harmful,2
+saffron,not harmful,2
+sage,not harmful,2
+"sage, dried",not harmful,2
+"salt, iodized",not harmful,2
+sassafras leaf,harmful,1
+sea salt,not harmful,2
+"sea salt, low sodium",not harmful,2
+sodium chloride,harmful,1
+sorrel,controversial,0
+soy sauce,not harmful,2
+"soy sauce, dried",not harmful,2
+"soy sauce, reduced sodium",not harmful,2
+spearmint,not harmful,2
+spices,not harmful,2
+star anise,not harmful,2
+stinging nettle,not harmful,2
+sweet bay,controversial,0
+tarragon,not harmful,2
+"tarragon, dried",not harmful,2
+tea,not harmful,2
+thyme,not harmful,2
+turkey broth,not harmful,2
+turkey stock,not harmful,2
+turmeric,not harmful,2
+ume plum vinegar,not harmful,2
+vegetable broth,not harmful,2
+vinegar,not harmful,2
+"vinegar, dried",not harmful,2
+wasabi,not harmful,2
+"wasabi, dried",not harmful,2
+white pepper,not harmful,2
+white tea,not harmful,2
+winter savory,not harmful,2
+wintergreen,harmful,1
+worcestershire sauce,controversial,0
+yerba mate leaf,controversial,0
+aloe vera,not harmful,2
+aloe vera juice,controversial,0
+aloe vera puree,not harmful,2
+"aloe vera, dried",not harmful,2
+arrowroot flour,not harmful,2
+artichoke,not harmful,2
+"artichoke, dried",not harmful,2
+"artichoke, roasted",not harmful,2
+asparagus,not harmful,2
+bamboo shoot,not harmful,2
+"bamboo shoot, dried",not harmful,2
+barley grass,not harmful,2
+"barley grass, dried",not harmful,2
+beetroot,not harmful,2
+beetroot juice,not harmful,2
+beetroot juice concentrate,not harmful,2
+beetroot juice from concentrate,not harmful,2
+"beetroot juice, dried",not harmful,2
+beetroot puree,not harmful,2
+"beetroot, dried",not harmful,2
+"beetroot, roasted",not harmful,2
+bok choy,not harmful,2
+broccoli,not harmful,2
+"broccoli, dried",not harmful,2
+brussel sprouts,not harmful,2
+"brussel sprouts, roasted",not harmful,2
+butternut squash,not harmful,2
+butternut squash juice concentrate,not harmful,2
+butternut squash puree,not harmful,2
+"butternut squash, roasted",not harmful,2
+cabbage,not harmful,2
+cabbage juice,not harmful,2
+cabbage juice concentrate,not harmful,2
+"cabbage, dried",not harmful,2
+carrot,not harmful,2
+carrot juice concentrate,not harmful,2
+carrot juice from concentrate,not harmful,2
+"carrot juice, dried",not harmful,2
+carrot puree,not harmful,2
+carrot puree concentrate,not harmful,2
+"carrot, dried",not harmful,2
+"carrot, puffed",not harmful,2
+"carrot, roasted",not harmful,2
+cassava,not harmful,2
+cassava flour,not harmful,2
+cauliflower,not harmful,2
+"cauliflower, dried",not harmful,2
+"cauliflower, roasted",not harmful,2
+celeriac,not harmful,2
+celery,not harmful,2
+celery juice,not harmful,2
+"celery juice, cultured",not harmful,2
+"celery juice, cultured, dried",not harmful,2
+"celery juice, dried",not harmful,2
+celery puree,not harmful,2
+"celery, dried",not harmful,2
+chard,not harmful,2
+chard juice,not harmful,2
+chicory root,controversial,0
+"chicory root, dried",controversial,0
+"chicory root, roasted",not harmful,2
+collard greens,not harmful,2
+collard greens juice,not harmful,2
+cucumber,not harmful,2
+cucumber juice,not harmful,2
+cucumber juice concentrate,not harmful,2
+cucumber puree,not harmful,2
+"cucumber, dried",not harmful,2
+daikon radish,not harmful,2
+eggplant,not harmful,2
+"eggplant, roasted",not harmful,2
+fennel,not harmful,2
+fennel juice,not harmful,2
+fenugreek,not harmful,2
+galangal root,not harmful,2
+garland chrysanthemum,not harmful,2
+garlic,not harmful,2
+garlic juice,not harmful,2
+garlic juice concentrate,not harmful,2
+garlic paste,not harmful,2
+garlic puree,not harmful,2
+"garlic, dried",not harmful,2
+"garlic, roasted",not harmful,2
+ginger,not harmful,2
+ginger (with added sulfite agent),controversial,0
+ginger juice,not harmful,2
+ginger paste,not harmful,2
+ginger puree,not harmful,2
+"ginger, cooked",not harmful,2
+green onion,not harmful,2
+"green onion, dried",not harmful,2
+head lettuce,not harmful,2
+"horseradish, dried",not harmful,2
+hot pepper,not harmful,2
+hot pepper puree,not harmful,2
+"hot pepper, cooked in oil",not harmful,2
+"hot pepper, pickled",not harmful,2
+"hot pepper, roasted",not harmful,2
+"hot pepper, salted",not harmful,2
+"hot pepper, smoked",controversial,0
+jerusalem artichoke,not harmful,2
+"jerusalem artichoke, dried",not harmful,2
+kale,not harmful,2
+kale juice,not harmful,2
+kale juice concentrate,not harmful,2
+kale juice from concentrate,not harmful,2
+kale puree,not harmful,2
+"kale, cooked",not harmful,2
+"kale, dried",not harmful,2
+konjac,not harmful,2
+"konjac root, dried",not harmful,2
+leaf lettuce,not harmful,2
+leaf lettuce juice,not harmful,2
+leek,not harmful,2
+leek juice,not harmful,2
+"leek, dried",not harmful,2
+lettuce,not harmful,2
+loroco,not harmful,2
+mustard greens,not harmful,2
+napa cabbage,not harmful,2
+okra,not harmful,2
+onion,not harmful,2
+onion juice,not harmful,2
+onion puree,not harmful,2
+"onion, cooked",not harmful,2
+"onion, dried",not harmful,2
+"onion, dried (with added sulfite agent)",controversial,0
+"onion, roasted",not harmful,2
+"onion, smoked, dried",not harmful,2
+parsnip,not harmful,2
+pepper,not harmful,2
+potato,not harmful,2
+potato flour,not harmful,2
+"potato flour, cultured",not harmful,2
+"potato, baked",not harmful,2
+"potato, cooked",not harmful,2
+"potato, dried",not harmful,2
+"potato, fried",harmful,1
+"potato, roasted",not harmful,2
+pumpkin,not harmful,2
+pumpkin juice,not harmful,2
+pumpkin juice concentrate,not harmful,2
+pumpkin juice from concentrate,not harmful,2
+pumpkin puree,not harmful,2
+"pumpkin, cooked",not harmful,2
+"pumpkin, dried",not harmful,2
+radish,not harmful,2
+radish juice,not harmful,2
+"ramsons, dried",not harmful,2
+reconstituted onion,not harmful,2
+reconstituted potato,not harmful,2
+rhubarb,controversial,0
+rhubarb puree,not harmful,2
+romaine lettuce,not harmful,2
+romaine lettuce juice,not harmful,2
+shallot,not harmful,2
+spinach,not harmful,2
+spinach juice,not harmful,2
+spinach juice concentrate,not harmful,2
+spinach juice from concentrate,not harmful,2
+spinach puree,not harmful,2
+"spinach, dried",not harmful,2
+squash,not harmful,2
+summer squash,not harmful,2
+"summer squash, roasted",not harmful,2
+swede,not harmful,2
+sweet pepper,not harmful,2
+sweet pepper juice,not harmful,2
+sweet pepper juice concentrate,not harmful,2
+sweet pepper puree,not harmful,2
+"sweet pepper, dried",not harmful,2
+"sweet pepper, roasted",not harmful,2
+sweet potato,not harmful,2
+sweet potato juice,not harmful,2
+sweet potato juice concentrate,not harmful,2
+sweet potato juice from concentrate,not harmful,2
+sweet potato puree,not harmful,2
+"sweet potato, dried",not harmful,2
+"sweet potato, roasted",not harmful,2
+sweetcorn,not harmful,2
+sweetcorn puree,not harmful,2
+"sweetcorn, grilled",not harmful,2
+"sweetcorn, roasted",not harmful,2
+tapioca flour,not harmful,2
+tomato,not harmful,2
+tomato concentrate,not harmful,2
+tomato juice,not harmful,2
+tomato juice concentrate,not harmful,2
+tomato paste,not harmful,2
+"tomato paste, salted",harmful,1
+tomato pulp,not harmful,2
+tomato puree,not harmful,2
+tomato sauce,not harmful,2
+"tomato, dried",not harmful,2
+"tomato, dried (with added sulfite agent)",controversial,0
+"tomato, in juice",not harmful,2
+"tomato, roasted",not harmful,2
+"tomato, smoked",controversial,0
+vegetable juice,not harmful,2
+vegetable juice concentrate,not harmful,2
+vegetable juice from concentrate,not harmful,2
+"vegetable juice, dried",not harmful,2
+vegetables,not harmful,2
+"vegetables, dried",not harmful,2
+water chestnut,not harmful,2
+wheat grass,not harmful,2
+wheat grass juice,not harmful,2
+"wheat grass, dried",not harmful,2
+winter squash,not harmful,2
+zucchini,not harmful,2
+zucchini juice,not harmful,2
+"zucchini, dried",not harmful,2
+"zucchini, roasted",not harmful,2
